@@ -1,4 +1,4 @@
-# **Claude \- BIS**  **The Day Basel Discovered It Had Amnesia**
+# **The Day Basel Discovered It Had Amnesia**
 
 My name is Dr. Marcus Wiedenhofer, and I've been a senior economist at the Bank for International Settlements for twelve years. This morning, like every morning, I arrived at our Basel headquarters at precisely 7:45 AM, confident that we—the central bank of central banks—had global financial stability completely under control.
 
