@@ -10,7 +10,8 @@
 
 ---
 
-**Lev:**    Based on the attached document [**"Ternary Logic (TL) as an Anti-Money Laundering (AML) Enforcement Architecture: Governance-Grade System Specification"**](https://github.com/FractonicMind/TernaryLogic/blob/main/AML_Prevention/Ternary%20Logic%20(TL)%20as%20an%20Anti-Money%20Laundering%20(AML)%20Enforcement%20Architecture_%20Governance-Grade%20System%20Specification.md) (read it carefully, twice), write a humorous, light-novel style story. One continuous story, no chapters. 
+**Lev:**   
+Based on the attached document [**"Ternary Logic (TL) as an Anti-Money Laundering (AML) Enforcement Architecture: Governance-Grade System Specification"**](https://github.com/FractonicMind/TernaryLogic/blob/main/AML_Prevention/Ternary%20Logic%20(TL)%20as%20an%20Anti-Money%20Laundering%20(AML)%20Enforcement%20Architecture_%20Governance-Grade%20System%20Specification.md) (read it carefully, twice), write a humorous, light-novel style story. One continuous story, no chapters. 
 
 **DeepSeek:**   
 ## The Basel Bind
