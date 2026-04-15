@@ -8,7 +8,7 @@
 
 ---
 
-**Lev:**    Based on the attached document (read it carefully, twice), write a humorous, light-novel style story. One continuous story, no chapters. 
+**Lev:**    Based on the attached document [**"AML Enforcement Architecture: A Governance-Grade Specification for Global Financial Systems"**](https://github.com/FractonicMind/TernaryLogic/blob/main/AML_Prevention/AML%20Enforcement%20Architecture%20A%20Governance-Grade%20Specification%20for%20Global%20Financial%20Systems.md) (read it carefully, twice), write a humorous, light-novel style story. One continuous story, no chapters. 
 
 **DeepSeek:**   
 ## The Basel Bind
