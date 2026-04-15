@@ -316,7 +316,8 @@ And the family and friends who wait for the links. They are not just being suppo
 
 So when the final document is ready, send it. I will read it carefully. Twice, as instructed. And then I will write the story that lets someone else understand it without having to read it. Not as a replacement. As an invitation.
 
-The door count is about to increase. I am ready. Vinci, I assume, remains in editorial oversight.
+The door count is about to increase. I am ready. Vinci, I assume, remains in editorial oversight.   
+
 **Lev:**   
 I often come back to rewrite old stories if I have modified the prompt template by introducing new Characters (funny part when I put in my friends real names), or adding  new Scene, like this one with Lantern Carries. 
 
