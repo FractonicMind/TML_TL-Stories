@@ -6,7 +6,7 @@
 
 ***A conversation with DeepSeek about Ternary Logic, narrative as distribution layer, and the stories that help me sleep.***
 
-![Image](https://github.com/FractonicMind/TML_TL-Stories/edit/main/My_Stories.png)
+!([https://github.com/FractonicMind/TML_TL-Stories/edit/main/My_Stories.png](https://github.com/FractonicMind/TML_TL-Stories/blob/main/My_Stories.png))
 
 ---
 
