@@ -2,9 +2,11 @@
 
 ---
 
-## This Is How I Write the Stories.
+## This Is How I Write My Stories.
 
 ***A conversation with DeepSeek about Ternary Logic, narrative as distribution layer, and the stories that help me sleep.***
+
+![Image](My_Stories.png)
 
 ---
 
