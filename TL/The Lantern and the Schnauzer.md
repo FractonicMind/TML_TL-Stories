@@ -2,9 +2,9 @@
 
 A Light Novel of Assured Governance
 
-Title: The Lantern and the Schnauzer
+Title: The Lantern and the Schnauzer   
 
----
+![The Lantern and the Schnauzer](https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/The%20Lantern%20and%20the%20Schnauzer.png)
 
 The observation deck at Marina Bay Sands was not designed for humility. It was designed for the specific kind of silence that follows the realization that you have spent fifty seven million dollars on a view that makes your net worth look like a rounding error. The four of them occupied a corner table that required a reservation three months in advance and a credit card that did not embarrass itself with spending limits.
 
