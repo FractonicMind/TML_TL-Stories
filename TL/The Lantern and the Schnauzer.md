@@ -277,3 +277,8 @@ She forwarded the notification to the others. By the end of the day, each of the
 They were no longer observers. They were the verification layer. And somewhere, in a house that smelled like bougainvillea and old dog, Lev Goukassian looked at the chain of responses and smiled. Then he went back to work. There was still time. Not enough to waste. Enough to finish a few more things.
 
 The lantern kept burning. That was the point.
+
+---
+
+Letter from the Author:
+​“The characters in this story are functional archetypes. The logic described herein is sovereign: it requires no heroes, no saints, and no central authorities. It only requires verification.”
