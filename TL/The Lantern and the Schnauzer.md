@@ -232,7 +232,7 @@ The call ended.
 
 ---
 
-They sat in silence for a long time. The binder sat in the center of the table. The empty coffee cups sat next to it. The morning light through the hotel windows had shifted from gold to white, and somewhere outside, Singapore was beginning its day without any awareness that four people had just had their understanding of accountability permanently altered.
+The binder sat in the center of the table. The empty coffee cups sat next to it. The morning light through the hotel windows had shifted from gold to white, and somewhere outside, Singapore was beginning its day without any awareness that four people had just had their understanding of accountability permanently altered.
 
 "He is not going to live to see this through," Marcus said.
 
