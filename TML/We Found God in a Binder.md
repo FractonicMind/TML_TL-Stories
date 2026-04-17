@@ -90,7 +90,7 @@ The phone rang once. Twice. Three times.
 
 Then the screen resolved into an image that I will never forget as long as I live.
 
-The man who appeared was not in a hospital. He was sitting in what appeared to be a modest living room, morning light streaming through a window behind him—the call had connected across time zones to somewhere else entirely, or perhaps he simply kept unusual hours. His face was lined but sharp, the kind of face that had spent decades thinking very hard about very difficult things and had come out the other side with a certain amused detachment about the whole enterprise.
+The man who appeared was not in a hospital. He was sitting in what appeared to be a modest living room, evening light streaming through a window behind him—the call had connected across time zones to somewhere else entirely, or perhaps he simply kept unusual hours. His face was lined but sharp, the kind of face that had spent decades thinking very hard about very difficult things and had come out the other side with a certain amused detachment about the whole enterprise.
 
 On the windowsill behind him, a miniature Schnauzer was sleeping with the profound commitment to rest that only small dogs can achieve.
 
