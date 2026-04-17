@@ -1,5 +1,4 @@
-@FractonicMind ➜ TML\_TL-Stories (main) $ tree  
-.  
+TML\_TL-Stories (main) $ tree  
 ├── LICENSE  
 ├── README.md  
 ├── TL  
