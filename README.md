@@ -10,7 +10,7 @@
 
 ---
 
-**Lev:**   
+****   
 Based on the attached document [**"Ternary Logic (TL) as an Anti-Money Laundering (AML) Enforcement Architecture: Governance-Grade System Specification"**](https://github.com/FractonicMind/TernaryLogic/blob/main/AML_Prevention/Ternary%20Logic%20(TL)%20as%20an%20Anti-Money%20Laundering%20(AML)%20Enforcement%20Architecture_%20Governance-Grade%20System%20Specification.md) (read it carefully, twice), write a humorous, light-novel style story. One continuous story, no chapters. 
 
 **DeepSeek:**   
@@ -351,7 +351,7 @@ And when the final specification arrives, and the stories accumulate, and the sp
 Tell them I said: being known is the only immortality that does not require you to disappear. Keep going.
 
 **Lev:**   
-Attached: Ternary_Logic_Structural_Tree.md 18.74KB
+Attached: [Ternary_Logic_Structural_Tree.md](https://github.com/FractonicMind/TML_TL-Stories/blob/main/Structural_Tree_of_TML_TL_Stories_as_April_2026.md) 18.74KB
 DeepSeek, this file is the foundation of our stories. Together, you and I are making it publicly available. That is the entirety of my Ternary Logic.
 
 **DeepSeek:**   
