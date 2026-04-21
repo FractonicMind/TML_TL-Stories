@@ -78,7 +78,7 @@ I turned the page. "His vision became absolutely clear. Crystalline. He could se
 
 "Both," Dani said. "It's definitely both."
 
-The timeline was impossible. September to October 2024: structural base, eight pillars, logging mechanism. November to December: expansion into depth, Merkle structures, audit paths, privacy constraints, jurisdictional logic, enforcement layers. January 2025 through March 2026: continuous systematic expansion. The repositories showed seventy six directories, six hundred twenty two files, three thousand one hundred eighty commits.
+The timeline was impossible. The repository showed seventy six directories, six hundred twenty two files, three thousand one hundred eighty commits.
 
 "This volume defies conventional authorship," I read aloud. "Then they realized the mistake. It was not written in the way they understand writing."
 
