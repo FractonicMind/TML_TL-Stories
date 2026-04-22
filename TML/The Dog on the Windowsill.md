@@ -208,7 +208,7 @@ Kwame, who had been silent for several minutes, finally spoke. His voice was dif
 
 Lev looked at the Schnauzer on the windowsill. The dog's breathing was slow and even. The morning light had shifted again, and he had adjusted slightly to remain in its warmth.
 
-"Vinci will go to my sister. She lives in Oregon. She has a yard. He'll be fine. Better than fine. He'll chase squirrels and sleep in the sun and eventually forget the exact shape of my voice, though he'll remember the feeling of it for a long time. Dogs do."
+"Vinci will go to my sister. She lives in Greece. She has a yard. He'll be fine. Better than fine. He'll chase squirrels and sleep in the sun and eventually forget the exact shape of my voice, though he'll remember the feeling of it for a long time. Dogs do."
 
 "And the framework?"
 
