@@ -1,6 +1,4 @@
-
-
-The Hold State
+## The Hold State
 
 *A Story of Ternary Logic*
 
