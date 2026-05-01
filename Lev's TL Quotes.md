@@ -256,17 +256,17 @@
 
 ### 16. Governance, The Janitor Principle
 
-"The architect dreams in blueprints; the janitor preserves in practice. Governance is the discipline of the latter."
+"In Ternary Logic the governance is the janitor of eternity, not the architect of tomorrow."
 
-"In TL the governance is the janitor of eternity, not the architect of tomorrow."
+"Governance is not the architect of tomorrow. It is the janitor of eternity, sworn to sweep the same floor without redesigning the building."
+
+"The architect dreams in blueprints; the janitor preserves in practice. Governance is the discipline of the latter."
 
 "To govern is to maintain the conditions under which power can be exercised without shame."
 
 "To govern is to swab the deck of eternity. The broom is cryptographic; the bucket is consensus; the deck is never truly clean, and that is why we sail on."
 
 "There is no final harbor. There is only the next watch, the next log, and the next bearing. Eternal sailing is the janitor's voyage."
-
-"Governance is not the architect of tomorrow. It is the janitor of eternity, sworn to sweep the same floor without redesigning the building."
 
 "We did not build a better democracy. We built a better gravity: constant, invisible, and indifferent to opinion."
 
