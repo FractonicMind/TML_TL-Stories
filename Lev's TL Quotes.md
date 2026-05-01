@@ -327,10 +327,3 @@
 
 "What cannot be bought cannot be sold. The open-source license is the legal form of the Escrow state: held in trust, never delivered to private hands."
 
-
-**Summary of merge operations:**
-- **Removed 3 exact duplicates** from the Immutable Ledger category (your file and my generated quotes shared three identical lines).
-- **Stripped all attributions** ("— Lev Goukassian" / "-Lev Goukassian.").
-- **Final count:** 127 unique quotes across 21 categories.
-
-If you want this exported as a standalone `.md` file, a YAML front-matter block for a Jekyll site, or formatted as epigraphs for a Springer chapter, let me know and I will package it.
