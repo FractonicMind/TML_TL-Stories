@@ -1,4 +1,4 @@
-## **This is the 'I've Read This Document So You Don't Have To' series - a parallel architecture for public comprehension, built alongside the technical one. The stories matter as much as the specifications. Everything complex in TML and TL lives here too, just without the voltage thresholds.**
+## ***This is the 'I've Read This Document So You Don't Have To' series - a parallel architecture for public comprehension, built alongside the technical one. The stories matter as much as the specifications. Everything complex in TML and TL lives here too, just without the voltage thresholds.***
 
 **This is a collection of stories about Ternary Logic (TL) and Ternary Moral Logic (TML) - two governance frameworks. What follows is a conversation that explains how and why they were written.**
 
