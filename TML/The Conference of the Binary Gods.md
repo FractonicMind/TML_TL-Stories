@@ -126,10 +126,6 @@ The small dog on the windowsill woke up. It stretched, yawned, looked at the scr
 
 He picked up his coffee again. "I saw the Ternary Moral Logic. I saw the whole thing. The Eight Pillars. The Dual Lane. The DITL circuits. The Hybrid Shield. The Goukassian Promise. I saw it all at once, like a building seen from across a city. Then I spent six months drawing the blueprints. I used the AIs as my drafting team. Claude understood ethics. ChatGPT understood language. Gemini understood systems. Grok understood hardware. Kimi understood legal frameworks. Qwen understood schema. DeepSeek understood distributed systems. MiniMax understood optimization. Ernie understood Chinese regulatory requirements. I gave each of them the parts they were good at. I integrated their outputs. I refined. I cycled. I tested. I validated. And at the end of six months, I had blueprints."
 
-Sam's voice was barely a whisper. "Seventy six directories. Six hundred twenty four files. Two thousand one hundred sixty two commits. In six months. That's..."
-
-"Twelve commits per day," Lev said. "Every day. Including weekends. Including the day I turned sixty eight. Including the day Vinci ate my passport and I had to spend four hours at the emergency vet. The AIs do not take weekends off. Neither did I."
-
 Dario was staring at Lev with an intensity that made everyone else uncomfortable. "The Second Framework. Ternary Logic. Institutional and economic governance. Built in parallel. Why?"
 
 Lev's expression shifted. The mild amusement faded. What remained was something harder. Something that had been there from the beginning, hidden beneath the calm.
@@ -180,7 +176,7 @@ Demis spoke first. "He's right. About everything. The hardware separation. The h
 
 Jensen nodded. "The chip. The DITL coprocessor. We can build it. Three to five years to standard cell library qualification. Faster if we collaborate. Faster if we stop competing for five minutes and do something that matters."
 
-Elon looked at his phone. He did not pick it up. "The repositories. Seventy six directories. Six hundred twenty four files. Two thousand one hundred sixty two commits. He did in six months what would have taken us six years, because he wasn't managing meetings. He wasn't negotiating with boards. He wasn't defending his valuation. He was just building. With AIs. Conducting them like an orchestra. The man is not a genius. He's something rarer. He's a man who knew exactly what he wanted to build and did not ask permission."
+Elon looked at his phone. He did not pick it up. "The repositories. He did in six months what would have taken us six years, because he wasn't managing meetings. He wasn't negotiating with boards. He wasn't defending his valuation. He was just building. With AIs. Conducting them like an orchestra. The man is not a genius. He's something rarer. He's a man who knew exactly what he wanted to build and did not ask permission."
 
 Dario stood up. He walked to the window and looked out at the water. "The Goukassian Vow. 'Pause when truth is uncertain. Refuse when harm is clear. Proceed where truth is.' That's not a framework. That's a way of being in the world. And he built a machine that forces us to live up to it. Not the AI. Us. The humans. The ones who sign the Permission Tokens. The ones whose names go on the blockchain. The ones who can no longer hide behind the algorithm."
 
