@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="el5ahnK4IShOwZLv8YZb8Vw-LIaGD9sChnwkLYgUEc8" />
+    <meta name="description" content="TML_TL-Stories — the 'I've Read This Document So You Don't Have To' series. A parallel architecture for public comprehension, built alongside the Ternary Moral Logic and Ternary Logic technical frameworks. 398 stories in English and Russian by Lev Goukassian.">
+    <meta name="keywords" content="Ternary Logic stories, Ternary Moral Logic fiction, TML stories, TL stories, Lev Goukassian stories, Sacred Pause fiction, Epistemic Hold stories, AI ethics fiction, Sacred Zero, Goukassian Principle, AI governance stories, financial fiction, Russian stories, Santa Monica writer, Vinci schnauzer">
+    <meta name="author" content="Lev Goukassian">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <meta name="theme-color" content="#0a1628">
+    <meta property="og:title" content="TML_TL-Stories — The Parallel Architecture for Public Comprehension">
+    <meta property="og:description" content="The 'I've Read This Document So You Don't Have To' series. Everything complex lives here too, just without the voltage thresholds. 398 stories in English and Russian.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fractonicmind.github.io/TML_TL-Stories/">
+    <meta property="og:site_name" content="TML_TL-Stories">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="TML_TL-Stories — The Parallel Architecture for Public Comprehension">
+    <meta name="twitter:description" content="398 stories. Two frameworks. One dog named Vinci. Everything complex lives here too, just without the voltage thresholds.">
+    <link rel="canonical" href="https://fractonicmind.github.io/TML_TL-Stories/">
+    <title>TML_TL-Stories — The Parallel Architecture for Public Comprehension</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+    :root {
+        --ink:#0a1628; --ink2:#1a2d4a; --paper:#fafaf7; --cream:#f5f0e8;
+        --gold:#c17f3a; --gold-lt:#d4a574; --gold-dk:#8a5520;
+        --amber:#d97706; --rust:#b84c1a; --sage:#4a7c59;
+        --mist:#f0e8d8; --rule:rgba(10,22,40,.10); --r:6px; --r-lg:12px;
+        --shadow-sm:0 1px 4px rgba(10,22,40,.08);
+        --shadow:0 4px 20px rgba(10,22,40,.12);
+        --font-d:'Playfair Display',Georgia,serif;
+        --font-b:'DM Sans','Segoe UI',system-ui,sans-serif;
+        --font-m:'DM Mono','Courier New',monospace;
+    }
+    *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{font-family:var(--font-b);background:var(--paper);color:var(--ink);line-height:1.7;-webkit-font-smoothing:antialiased}
+    a{color:var(--gold);text-decoration:none;transition:color .2s}
+    a:hover{color:var(--gold-dk);text-decoration:underline}
+
+    /* HERO */
+    .hero{background:var(--ink);color:var(--paper);position:relative;overflow:hidden}
+    .hero-pat{position:absolute;inset:0;background-image:repeating-linear-gradient(0deg,transparent,transparent 79px,rgba(212,165,116,.05) 80px),repeating-linear-gradient(90deg,transparent,transparent 79px,rgba(212,165,116,.03) 80px);pointer-events:none}
+    .hero-glow{position:absolute;width:600px;height:600px;border-radius:50%;background:radial-gradient(circle,rgba(212,165,116,.12) 0%,transparent 70%);top:-120px;right:-80px;pointer-events:none}
+    .hero-glow2{position:absolute;width:380px;height:380px;border-radius:50%;background:radial-gradient(circle,rgba(184,76,26,.10) 0%,transparent 70%);bottom:-60px;left:8%;pointer-events:none}
+    .hero-inner{position:relative;max-width:1100px;margin:0 auto;padding:5rem 2rem 4rem;display:grid;grid-template-columns:1fr 300px;gap:3rem;align-items:start}
+    .lantern{font-size:3rem;display:block;margin-bottom:.75rem;animation:float 4s ease-in-out infinite}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    .hero h1{font-family:var(--font-d);font-size:clamp(2rem,4vw,3.2rem);font-weight:900;line-height:1.1;letter-spacing:-.02em;margin-bottom:1rem}
+    .hero h1 em{font-style:italic;color:var(--gold-lt)}
+    .hero-sub{font-size:1rem;color:rgba(250,250,247,.68);font-weight:300;max-width:520px;margin-bottom:1.5rem}
+    .gold-bar{width:60px;height:3px;background:linear-gradient(90deg,var(--gold),var(--gold-lt));border-radius:2px;margin-bottom:1.5rem}
+    .series-box{background:rgba(212,165,116,.10);border:1px solid rgba(212,165,116,.28);border-left:3px solid var(--gold-lt);border-radius:0 var(--r) var(--r) 0;padding:1.1rem 1.4rem;margin-bottom:1.5rem;max-width:500px}
+    .series-box .sl{font-size:.68rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-lt);margin-bottom:.5rem}
+    .series-box p{font-family:var(--font-d);font-style:italic;font-size:.95rem;color:rgba(250,250,247,.85);line-height:1.85}
+    .hbadges{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:2rem}
+    .hb{display:inline-flex;align-items:center;gap:5px;padding:5px 12px;border-radius:999px;font-size:.76rem;font-weight:600;text-decoration:none;border:1px solid;transition:transform .15s,opacity .15s}
+    .hb:hover{transform:translateY(-2px);opacity:.9;text-decoration:none}
+    .hb-g{background:rgba(74,124,89,.25);border-color:rgba(74,124,89,.5);color:#9dd4ad}
+    .hb-a{background:rgba(212,165,116,.18);border-color:rgba(212,165,116,.40);color:var(--gold-lt)}
+    .hb-r{background:rgba(184,76,26,.22);border-color:rgba(184,76,26,.45);color:#f0a080}
+    .hb-p{background:rgba(120,60,160,.22);border-color:rgba(120,60,160,.45);color:#c4a0f0}
+    .hero-panel{background:rgba(255,255,255,.04);border:1px solid rgba(212,165,116,.18);border-radius:var(--r-lg);padding:1.5rem;position:sticky;top:80px}
+    .hero-panel h3{font-family:var(--font-d);font-size:1rem;font-weight:700;color:var(--gold-lt);margin-bottom:1rem}
+    .hero-panel ul{list-style:none}
+    .hero-panel ul li{border-bottom:1px solid rgba(255,255,255,.06);padding:.38rem 0}
+    .hero-panel ul li:last-child{border-bottom:none}
+    .hero-panel ul li a{color:rgba(250,250,247,.62);font-size:.8rem;transition:color .2s}
+    .hero-panel ul li a:hover{color:var(--gold-lt);text-decoration:none}
+    .hero-panel ul li a::before{content:'→ ';color:var(--gold-dk)}
+
+    /* NOTICE + NAV */
+    .series-strip{background:linear-gradient(135deg,#1a0f05,#2a1808);border-bottom:2px solid rgba(212,165,116,.30);color:rgba(212,165,116,.85);padding:.85rem 2rem;font-size:.84rem;text-align:center;font-family:var(--font-d);font-style:italic}
+    .cite-strip{background:var(--ink2);color:rgba(250,250,247,.55);padding:.75rem 2rem;font-size:.77rem;text-align:center;border-bottom:1px solid rgba(212,165,116,.12)}
+    .cite-strip a{color:rgba(212,165,116,.80)}
+    .sticky-nav{position:sticky;top:0;z-index:200;background:rgba(10,22,40,.97);backdrop-filter:blur(12px);border-bottom:1px solid rgba(212,165,116,.18)}
+    .nav-w{max-width:1100px;margin:0 auto;padding:0 1.5rem;display:flex;overflow-x:auto;-ms-overflow-style:none;scrollbar-width:none}
+    .nav-w::-webkit-scrollbar{display:none}
+    .nav-w a{color:rgba(250,250,247,.50);font-size:.78rem;font-weight:500;padding:.85rem .9rem;white-space:nowrap;border-bottom:2px solid transparent;transition:color .2s,border-color .2s}
+    .nav-w a:hover{color:var(--gold-lt);border-bottom-color:var(--gold);text-decoration:none}
+
+    /* LAYOUT */
+    .page{max-width:1100px;margin:0 auto;padding:3rem 2rem;display:grid;grid-template-columns:1fr 260px;gap:3rem;align-items:start}
+    .main{min-width:0}
+    .sec{margin-bottom:3.5rem;scroll-margin-top:60px}
+    .sec-lbl{font-size:.68rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--gold-dk);margin-bottom:.4rem}
+    .sec h2{font-family:var(--font-d);font-size:clamp(1.5rem,2.8vw,2rem);font-weight:700;color:var(--ink);line-height:1.2;margin-bottom:.4rem}
+    .sec-rule{height:2px;background:linear-gradient(90deg,var(--gold),var(--gold-lt) 40%,transparent);border:none;margin-bottom:1.5rem}
+    .sec p{margin-bottom:1rem;color:#2c3a50;font-size:.95rem}
+    .sec h3{font-family:var(--font-d);font-size:1.15rem;font-weight:700;color:var(--ink2);margin:1.8rem 0 .6rem}
+
+    blockquote{border-left:4px solid var(--gold);background:linear-gradient(135deg,#f8f0e4,#f2e8d8);padding:1.1rem 1.4rem 1.1rem 1.6rem;border-radius:0 var(--r) var(--r) 0;margin:1.2rem 0;position:relative}
+    blockquote::before{content:'\201C';font-family:var(--font-d);font-size:3rem;color:var(--gold);opacity:.35;position:absolute;top:-4px;left:14px;line-height:1}
+    blockquote p{font-family:var(--font-d);font-style:italic;font-size:1rem;color:var(--ink2);margin:0 0 .4rem 1.5rem !important}
+    blockquote cite{display:block;font-size:.8rem;font-weight:600;color:var(--gold-dk);letter-spacing:.03em;margin-left:1.5rem}
+
+    /* STORY CARDS */
+    .story-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:.65rem;margin:1rem 0}
+    .sc{background:white;border:1px solid var(--rule);border-radius:var(--r);padding:.8rem .95rem;transition:border-color .2s,transform .2s,box-shadow .2s;display:flex;flex-direction:column;gap:.3rem}
+    .sc:hover{border-color:var(--gold-lt);transform:translateY(-2px);box-shadow:var(--shadow-sm)}
+    .sc a{font-size:.8rem;font-weight:500;color:var(--ink2);line-height:1.35;word-break:break-word}
+    .sc a:hover{color:var(--gold-dk);text-decoration:none}
+    .sc-tag{font-size:.67rem;color:var(--gold-dk);font-weight:600;letter-spacing:.04em;text-transform:uppercase}
+    .sc-ru a{color:#7a4faa}
+    .sc-ru a:hover{color:#5a2f8a}
+    .sc-ru .sc-tag{color:#9060c0}
+
+    /* SUBFOLDER SECTIONS */
+    .subfolder{background:white;border:1px solid var(--rule);border-radius:var(--r-lg);padding:1.3rem 1.5rem;margin-bottom:1.1rem;transition:box-shadow .2s}
+    .subfolder:hover{box-shadow:var(--shadow-sm)}
+    .sf-head{display:flex;align-items:center;gap:.6rem;margin-bottom:.9rem;cursor:pointer}
+    .sf-icon{width:32px;height:32px;border-radius:8px;background:var(--ink);color:var(--gold-lt);display:flex;align-items:center;justify-content:center;font-size:.95rem;flex-shrink:0}
+    .subfolder h3{font-family:var(--font-d) !important;font-size:1rem !important;font-weight:700 !important;color:var(--ink) !important;margin:0 !important}
+    .sf-count{font-size:.72rem;color:#7a8a9a;margin-left:auto;font-weight:500;white-space:nowrap}
+
+    /* PILLS / TAGS */
+    .pg{display:flex;flex-wrap:wrap;gap:6px;margin:.6rem 0 1rem}
+    .pill{display:inline-flex;align-items:center;gap:4px;background:var(--mist);color:var(--ink2);text-decoration:none;padding:4px 11px;border-radius:999px;font-size:.77rem;font-weight:500;border:1px solid var(--rule);transition:background .15s,border-color .15s}
+    .pill:hover{background:#ead8b8;border-color:rgba(193,127,58,.35);text-decoration:none;color:var(--gold-dk)}
+    .pill-ru{background:#f0e8f8;color:#6a3a9a;border-color:rgba(120,60,160,.18)}
+    .pill-ru:hover{background:#e4d0f4;color:#4a1a7a}
+
+    /* HBOX */
+    .hbox{border-radius:var(--r-lg);padding:1.4rem 1.6rem;margin:1rem 0}
+    .hb-warm{background:linear-gradient(135deg,#fdf5e8,#f8ecda);border:1.5px solid rgba(212,165,116,.30)}
+    .hb-dark{background:var(--ink);color:var(--paper);border:1.5px solid rgba(212,165,116,.22)}
+    .hb-dark h3{color:var(--gold-lt) !important}.hb-dark p{color:rgba(250,250,247,.72) !important}.hb-dark a{color:#e0c090}
+
+    /* BUTTONS */
+    .brow{display:flex;flex-wrap:wrap;gap:.6rem;margin:1.1rem 0}
+    .btn{display:inline-flex;align-items:center;gap:5px;padding:9px 20px;border-radius:var(--r);font-size:.83rem;font-weight:600;text-decoration:none;transition:transform .15s,box-shadow .15s;letter-spacing:.01em}
+    .btn:hover{transform:translateY(-2px);box-shadow:var(--shadow);text-decoration:none}
+    .btn-dk{background:var(--ink);color:var(--paper)}
+    .btn-gold{background:linear-gradient(135deg,var(--gold),var(--gold-lt));color:white}
+    .btn-ol{background:white;color:var(--gold-dk);border:1.5px solid rgba(193,127,58,.35)}
+    .btn-ol:hover{border-color:var(--gold)}
+    .btn-gh{background:transparent;color:var(--ink2);border:1.5px solid var(--rule)}
+
+    /* STATS */
+    .stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:.75rem;margin:1rem 0}
+    .stat{background:white;border:1px solid var(--rule);border-radius:var(--r-lg);padding:1.1rem;text-align:center}
+    .stat-v{font-family:var(--font-d);font-size:2rem;font-weight:900;color:var(--gold-dk);display:block;line-height:1;margin-bottom:4px}
+    .stat-l{font-size:.72rem;color:#6a7a9a;font-weight:500}
+
+    /* TABLE */
+    .tbl{width:100%;border-collapse:collapse;font-size:.83rem;margin:1rem 0;border-radius:var(--r-lg);overflow:hidden;box-shadow:var(--shadow-sm)}
+    .tbl thead tr{background:var(--ink);color:var(--paper)}
+    .tbl th{padding:10px 14px;font-weight:600;text-align:left}
+    .tbl td{padding:9px 14px;border-bottom:1px solid var(--rule);color:#2c3a50}
+    .tbl tbody tr:last-child td{border-bottom:none}
+    .tbl tbody tr:nth-child(even) td{background:var(--cream)}
+    .tbl tbody tr:hover td{background:#f5ead8}
+
+    /* SIDEBAR */
+    .sidebar{position:sticky;top:80px;display:flex;flex-direction:column;gap:1.25rem}
+    .scard{background:white;border:1px solid var(--rule);border-radius:var(--r-lg);padding:1.2rem 1.3rem;box-shadow:var(--shadow-sm)}
+    .scard h4{font-family:var(--font-d);font-size:.95rem;font-weight:700;color:var(--ink);margin-bottom:.8rem;padding-bottom:.5rem;border-bottom:2px solid var(--gold)}
+    .scard ul{list-style:none}
+    .scard ul li{padding:.3rem 0;border-bottom:1px solid var(--rule);font-size:.79rem}
+    .scard ul li:last-child{border-bottom:none}
+    .scard ul li a{color:var(--ink2);font-weight:500}
+    .scard ul li a:hover{color:var(--gold-dk)}
+    .stats-card{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
+    .mini-stat{background:var(--cream);border-radius:var(--r);padding:.65rem;text-align:center}
+    .mini-v{font-family:var(--font-d);font-size:1.3rem;font-weight:900;color:var(--gold-dk);display:block;line-height:1;margin-bottom:2px}
+    .mini-l{font-size:.65rem;color:#6a7a9a;font-weight:500}
+
+    /* FOOTER */
+    footer{background:var(--ink);color:rgba(250,250,247,.52);margin-top:2rem}
+    .ft{max-width:1100px;margin:0 auto;padding:3rem 2rem 2rem;display:grid;grid-template-columns:2fr 1fr 1fr;gap:2.5rem}
+    .ft-brand h3{font-family:var(--font-d);font-size:1.3rem;font-weight:700;color:var(--paper);margin-bottom:.5rem}
+    .ft-brand p{font-size:.8rem;line-height:1.65;margin-bottom:0}
+    .ft-quote{font-family:var(--font-d);font-style:italic;color:var(--gold-lt);font-size:.85rem;margin-top:.75rem;padding-top:.75rem;border-top:1px solid rgba(212,165,116,.18)}
+    footer h4{font-size:.72rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--gold-lt);margin-bottom:.85rem}
+    footer ul{list-style:none}
+    footer ul li{margin-bottom:.4rem}
+    footer ul li a{color:rgba(250,250,247,.45);font-size:.79rem;transition:color .2s}
+    footer ul li a:hover{color:var(--gold-lt);text-decoration:none}
+    .fb{border-top:1px solid rgba(212,165,116,.10);padding:1.1rem 2rem;max-width:1100px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.5rem;font-size:.76rem}
+    .fb a{color:rgba(212,165,116,.65)}
+
+    @media(max-width:960px){.hero-inner{grid-template-columns:1fr}.hero-panel{display:none}.page{grid-template-columns:1fr}.sidebar{position:static}.ft{grid-template-columns:1fr 1fr}.stats-row{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:640px){.hero-inner{padding:3rem 1.25rem 2.5rem}.page{padding:2rem 1.25rem}.ft{grid-template-columns:1fr}.fb{flex-direction:column;text-align:center}.story-grid{grid-template-columns:1fr}}
+    </style>
+</head>
+<body>
+
+<header class="hero">
+<div class="hero-pat"></div><div class="hero-glow"></div><div class="hero-glow2"></div>
+<div class="hero-inner">
+  <div>
+    <span class="lantern">📖</span>
+    <h1>TML_TL-Stories:<br><em>The Parallel Architecture<br>for Public Comprehension</em></h1>
+    <div class="gold-bar"></div>
+    <div class="series-box">
+      <div class="sl">📚 The Series</div>
+      <p>This is the 'I've Read This Document So You Don't Have To' series — a parallel architecture for public comprehension, built alongside the technical one. The stories matter as much as the TML and TL specifications. Everything complex lives here too, just without the voltage thresholds.</p>
+    </div>
+    <p class="hero-sub">398 stories across 14 directories. Two frameworks. One dog named Vinci. Written in English and Russian, by AI collaborators and by hand, in restaurants and senate chambers and the fifth floor of the Burj Al Arab.</p>
+    <div class="hbadges">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories" class="hb hb-a">📁 GitHub Repository</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/README.md" class="hb hb-g">📄 README</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/stories-repository-navigation.html" class="hb hb-r">🗺️ Full Navigation</a>
+      <a href="https://orcid.org/0009-0006-5966-1243" class="hb hb-p">🔬 ORCID: 0009-0006-5966-1243</a>
+    </div>
+    <div class="brow">
+      <a href="https://github.com/FractonicMind/TernaryMoralLogic" class="btn btn-gold">🧠 TML Framework</a>
+      <a href="https://github.com/FractonicMind/TernaryLogic" class="btn" style="background:rgba(26,107,181,.25);color:#90c8f8;border:1px solid rgba(26,107,181,.35)">⚖️ TL Framework</a>
+      <a href="https://doi.org/10.1007/s43681-025-00910-6" class="btn" style="background:transparent;color:rgba(250,250,247,.52);border:1px solid rgba(255,255,255,.12)">📘 Published Paper</a>
+    </div>
+  </div>
+  <aside class="hero-panel">
+    <h3>📍 Quick Navigation</h3>
+    <ul>
+      <li><a href="#about">About This Series</a></li>
+      <li><a href="#tl-stories">TL Stories</a></li>
+      <li><a href="#tml-stories">TML Stories</a></li>
+      <li><a href="#subfolders">TML Subfolders</a></li>
+      <li><a href="#russian">Russian Stories</a></li>
+      <li><a href="#ai-voices">AI Voices</a></li>
+      <li><a href="#root-files">Root Files</a></li>
+      <li><a href="#frameworks">The Frameworks</a></li>
+    </ul>
+  </aside>
+</div>
+</header>
+
+<div class="series-strip">"The stories matter as much as the TML and TL specifications. Everything complex lives here too, just without the voltage thresholds."</div>
+
+<div class="cite-strip">📚 <strong>Technical frameworks:</strong> <a href="https://github.com/FractonicMind/TernaryMoralLogic">TernaryMoralLogic</a> &nbsp;·&nbsp; <a href="https://github.com/FractonicMind/TernaryLogic">TernaryLogic</a> &nbsp;·&nbsp; Published: <a href="https://doi.org/10.1007/s43681-025-00910-6">AI and Ethics, Springer Nature</a> &nbsp;·&nbsp; Creator: Lev Goukassian, ORCID <a href="https://orcid.org/0009-0006-5966-1243">0009-0006-5966-1243</a></div>
+
+<nav class="sticky-nav">
+  <div class="nav-w">
+    <a href="#about">About</a>
+    <a href="#tl-stories">TL Stories</a>
+    <a href="#tml-stories">TML Stories</a>
+    <a href="#subfolders">Subfolders</a>
+    <a href="#russian">Russian</a>
+    <a href="#ai-voices">AI Voices</a>
+    <a href="#root-files">Root Files</a>
+    <a href="#frameworks">Frameworks</a>
+  </div>
+</nav>
+
+<div class="page">
+<main class="main">
+
+<!-- ABOUT -->
+<section class="sec" id="about">
+  <div class="sec-lbl">The Series</div>
+  <h2>About This Repository</h2><hr class="sec-rule">
+
+  <div class="stats-row">
+    <div class="stat"><span class="stat-v">398</span><span class="stat-l">Total Stories</span></div>
+    <div class="stat"><span class="stat-v">14</span><span class="stat-l">Directories</span></div>
+    <div class="stat"><span class="stat-v">2</span><span class="stat-l">Languages</span></div>
+    <div class="stat"><span class="stat-v">10+</span><span class="stat-l">AI Collaborators</span></div>
+  </div>
+
+  <p>This repository holds the creative companion to two published frameworks: <strong>Ternary Moral Logic (TML)</strong> and <strong>Ternary Logic (TL)</strong>. Where the technical repositories contain specifications, proofs, and cryptographic architectures, this one contains stories — the same ideas rendered as fiction, humor, satire, drama, and philosophical dialogue.</p>
+
+  <p>The stories were written across many months of parallel development, often by asking AI systems to imagine how their own kind might encounter, resist, or eventually embrace these frameworks. Some stories are set in Geneva banking summits. Some in Silicon Valley restaurants. Some in the White House, the Pentagon, or the fifth floor of the Burj Al Arab. Many are in Russian — because the ideas belong to a Santa Monica researcher who thinks in two languages.</p>
+
+  <blockquote>
+    <p>"The world is not binary. And the future will not be either."</p>
+    <cite>— Lev Goukassian</cite>
+  </blockquote>
+
+  <p>The repository takes its organizing principle from a recurring story format: <em>"I Read This So You Don't Have To."</em> That phrase captures the entire ambition — to make the architecture of evidentiary governance legible to anyone, regardless of whether they understand voltage thresholds or HKDF-SHA3-256 key hierarchies.</p>
+
+  <div class="hbox hb-warm">
+    <h3 style="font-family:var(--font-d);font-size:1rem;margin-bottom:.6rem;color:var(--gold-dk)">🐾 On Vinci</h3>
+    <p style="font-size:.9rem;margin:0">Vinci — the miniature schnauzer of Santa Monica — appears throughout these stories as mascot, witness, and occasional moral compass. He is present at the BIS summit that discovered it had amnesia, at the banking meeting where the Swiss brought a dog, and in the title of at least one story that credits him with saving global finance. He is not fictional. He supervises the research.</p>
+  </div>
+
+  <div class="brow">
+    <a href="https://github.com/FractonicMind/TML_TL-Stories" class="btn btn-dk">📁 GitHub Repository</a>
+    <a href="https://fractonicmind.github.io/TML_TL-Stories/stories-repository-navigation.html" class="btn btn-ol">🗺️ Full Navigation Map</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/README.md" class="btn btn-gh">📄 README</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/%D0%92%D0%BE%D1%82%20%D0%BA%D0%B0%D0%BA%20%D1%8F%20%D0%BF%D0%B8%D1%88%D1%83%20%D1%81%D0%B2%D0%BE%D0%B8%20%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B.md" class="btn btn-gh">✍️ Вот как я пишу свои рассказы</a>
+  </div>
+</section>
+
+<!-- TL STORIES -->
+<section class="sec" id="tl-stories">
+  <div class="sec-lbl">Ternary Logic Fiction</div>
+  <h2>TL/ — Ternary Logic Stories</h2><hr class="sec-rule">
+  <p>Stories exploring the Ternary Logic framework — the Epistemic Hold, the Immutable Ledger, the Goukassian Principle, AML enforcement, BIS alignment, and the question of what happens when financial systems learn to pause. Written by Claude, DeepSeek, Gemini, Grok, Kimi, MiniMax, Qwen, Perplexity, and others. Includes Russian-language stories and one story in French.</p>
+
+  <h3>English Stories</h3>
+  <div class="story-grid">
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20-%20BIS%20The%20Day%20Basel%20Discovered%20It%20Had%20Amnesia.md" target="_blank">The Day Basel Discovered It Had Amnesia</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20-%20The%20Governance%20Summit.md" target="_blank">The Governance Summit</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20-%20The%20Janitors%20of%20Eternity.md" target="_blank">The Janitors of Eternity</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20-%20The%20Third%20Plank.md" target="_blank">The Third Plank</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20Finance%20THE%20DAY%20WE%20ACCIDENTALLY%20READ%20THE%20FUTURE.md" target="_blank">The Day We Accidentally Read the Future</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20Legends%20%20The%20Night%20Seven%20Dead%20Geniuses%20Accidentally%20Designed%20the%20Future%20of%20Money.md" target="_blank">The Night Seven Dead Geniuses Accidentally Designed the Future of Money</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20TL%20VIPs%20-%20The%20Day%20We%20Accidentally%20Overthrew%20Ourselves.md" target="_blank">The Day We Accidentally Overthrew Ourselves</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20UK%20-%20The%20Utterly%20Sovereign%20Briefing.md" target="_blank">The Utterly Sovereign Briefing</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude-%20The%20Weight%20of%20the%20Hold.md" target="_blank">The Weight of the Hold</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Claude%20-%20Russia%20-%20Finance%20The%20Day%20the%20Wrong%20Binder%20Saved%20Russia.md" target="_blank">The Day the Wrong Binder Saved Russia</a></div>
+    <div class="sc"><span class="sc-tag">DeepSeek</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/DeepSeek%20The%20Day%20the%20Pause%20Button%20Broke%20the%20Bank.md" target="_blank">The Day the Pause Button Broke the Bank</a></div>
+    <div class="sc"><span class="sc-tag">DeepSeek</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/DeepSeek%20The%20Day%20the%20SEC%20Stood%20Still.md" target="_blank">The Day the SEC Stood Still</a></div>
+    <div class="sc"><span class="sc-tag">Gemini</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Gemini%20BIS%20The%20Evidence%20Layer%20You%20Forgot.md" target="_blank">The Evidence Layer You Forgot</a></div>
+    <div class="sc"><span class="sc-tag">Gemini</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Gemini%207%20Legends%20The%20Night%20the%20Apple%20Didn%27t%20Fall%2C%20It%20Just%20Paused.md" target="_blank">The Night the Apple Didn't Fall, It Just Paused</a></div>
+    <div class="sc"><span class="sc-tag">Grok</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/GROK%20%20BIS%20The%20Sacred%20Pause%20That%20Saved%20the%20World%20(Or%20At%20Least%20My%20Coffee%20Break).md" target="_blank">The Sacred Pause That Saved the World (Or At Least My Coffee Break)</a></div>
+    <div class="sc"><span class="sc-tag">Grok</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Grok%20The%20Sacred%20Pause%20of%20the%20Five%20Titans.md" target="_blank">The Sacred Pause of the Five Titans</a></div>
+    <div class="sc"><span class="sc-tag">Kimi</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Kimi%20-%20The%20Janitor%20of%20Eternity%20and%20the%20Five%20Emperors%20of%20Inference.md" target="_blank">The Janitor of Eternity and the Five Emperors of Inference</a></div>
+    <div class="sc"><span class="sc-tag">MiniMax</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/MiniMax%20-%20The%20Constitutional%20Archipelago.md" target="_blank">The Constitutional Archipelago</a></div>
+    <div class="sc"><span class="sc-tag">MiniMax</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/MiniMax-%20China%20_%20Finance%20THE%20DAY%20ZHONGNANHAI%20DISCOVERED%20THE%20SACRED%20ZERO.md" target="_blank">The Day Zhongnanhai Discovered the Sacred Zero</a></div>
+    <div class="sc"><span class="sc-tag">Qwen</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Qwen%20%20BIS%20DAY%20THE%20ALGORITHMS%20LEARNED%20TO%20PAUSE_%20A%20TALE%20OF%20TERNARY%20LOGIC%2C%20TERMINAL%20DIAGNOSES%2C%20AND%20THE%20MINIATURE%20SCHNAUZER%20WHO%20SAVED%20GLOBAL%20FINANCE.md" target="_blank">The Day the Algorithms Learned to Pause (and the Schnauzer Who Saved Global Finance)</a></div>
+    <div class="sc"><span class="sc-tag">Qwen</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Qwen%20-%20The%20Constitution%20of%20Hesitation.md" target="_blank">The Constitution of Hesitation</a></div>
+    <div class="sc"><span class="sc-tag">ChatGPT</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/ChatGPT%20Vinci%20President%20The%20Epistemic%20Hangover%20at%201600%20Pennsylvania.md" target="_blank">The Epistemic Hangover at 1600 Pennsylvania</a></div>
+    <div class="sc"><span class="sc-tag">Perplexity</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Perplexity%20-%20Restaurant%20AI%20Governance%20Constitutional%20Architecture.md" target="_blank">Restaurant AI Governance Constitutional Architecture</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/The%20Day%20the%20Swiss%20Brought%20a%20Dog%20to%20a%20Banking%20Meeting.md" target="_blank">The Day the Swiss Brought a Dog to a Banking Meeting</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/The%20Last%20Light%20in%20Santa%20Monica.md" target="_blank">The Last Light in Santa Monica</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/The%20Fifth%20Floor%20of%20the%20Burj%20Al%20Arab.md" target="_blank">The Fifth Floor of the Burj Al Arab</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/The%20G7%20Almost%20Started%20World%20War%20III%20Over%20a%20Zero.md" target="_blank">The G7 Almost Started World War III Over a Zero</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/Seven%20Geniuses%20and%20One%20Very%20Poorly%20Misplaced%20Binder.md" target="_blank">Seven Geniuses and One Very Poorly Misplaced Binder</a></div>
+    <div class="sc"><span class="sc-tag">French</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/L%27Architecture%20de%20la%20R%C3%A9volution_%20Le%20Jour%20o%C3%B9%20la%20Banque%20de%20France%20a%20D%C3%A9couvert%20la%20V%C3%A9rit%C3%A9__.md" target="_blank">L'Architecture de la Révolution (French)</a></div>
+  </div>
+
+  <h3>Russian Stories — TL/</h3>
+  <div class="story-grid">
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%95%D0%BB%D0%B8%D1%81%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D0%B0%D1%83%D0%B7%D0%B0.md" target="_blank">Елисейская пауза</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%9A%D0%9E%D0%93%D0%94%D0%90%20%D0%9C%D0%AB%20%D0%92%D0%A1%D0%A2%D0%A0%D0%95%D0%A2%D0%98%D0%9B%D0%98%20%D0%9F%D0%A0%D0%98%D0%97%D0%A0%D0%90%D0%9A%D0%90%20%D0%92%20%D0%9C%D0%90%D0%A8%D0%98%D0%9D%D0%95.md" target="_blank">КОГДА МЫ ВСТРЕТИЛИ ПРИЗРАКА В МАШИНЕ</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%9B%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%BD%20%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8C%20%D0%B8%20%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F.md" target="_blank">Лантерн Подпись и Лицензия</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%9B%D0%B8%D0%BC%D0%BE-%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%2C%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B8%D1%80%D1%8B%20%D0%B8%20%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D1%82%D0%B8%D1%88%D0%B8%D0%BD%D1%8B.md" target="_blank">Лимо-автобус, банкиры и архитектура тишины</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%9D%D0%9E%D0%A7%D0%AC%20%D0%9A%D0%9E%D0%93%D0%94%D0%90%20%D0%98%D0%A1%D0%A2%D0%9E%D0%A0%D0%98%D0%AF%20%D0%92%D0%AB%D0%A3%D0%A7%D0%98%D0%9B%D0%90%20%D0%A2%D0%A0%D0%9E%D0%98%D0%A7%D0%9D%D0%A3%D0%AE%20%D0%9B%D0%9E%D0%93%D0%98%D0%9A%D0%A3.md" target="_blank">НОЧЬ КОГДА ИСТОРИЯ ВЫУЧИЛА ТРОИЧНУЮ ЛОГИКУ</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%9D%D0%BE%D1%87%D1%8C%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D1%81%D0%B5%D0%BC%D0%B5%D1%80%D0%BE%20%D0%BC%D1%91%D1%80%D1%82%D0%B2%D1%8B%D1%85%20%D0%B3%D0%B5%D0%BD%D0%B8%D0%B5%D0%B2%20%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D0%B8%D0%BB%D0%B8%20%D1%81%D0%B0%D0%BC%D0%B8%20%D1%81%D0%B5%D0%B1%D1%8F.md" target="_blank">Ночь, когда семеро мёртвых гениев переспорили сами себя</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%A1%D0%B0%D0%B4%20%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.md" target="_blank">Сад ожидания</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%9D%D0%BE%D0%BB%D1%8C%20%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%20%D0%B2%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B5.md" target="_blank">Священный Ноль — Роман в одной встрече</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%A1%D0%B5%D0%BC%D1%8C%20%D0%B3%D0%B5%D0%BD%D0%B8%D0%B5%D0%B2%20%D0%BE%D0%B4%D0%B8%D0%BD%20%D0%BF%D1%91%D1%81%20%D0%92%D0%B8%D0%BD%D1%87%D0%B8%20%D0%B8%20%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0%20%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE.md" target="_blank">Семь гениев, один пёс Винчи и экономика будущего</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%A3%D0%B1%D0%BE%D1%80%D1%89%D0%B8%D0%BA%20%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8.md" target="_blank">Уборщик Вечности</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%A4%D0%BE%D0%BD%D0%B0%D1%80%D1%8C%20%D0%BF%D0%BE%D0%B4%20%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%BC.md" target="_blank">Фонарь под столом</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/%D0%A2%D1%80%D0%BE%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%20%D1%82%D0%B8%D1%88%D0%B8%D0%BD%D0%B0.md" target="_blank">Троичная тишина</a></div>
+  </div>
+
+  <div class="brow">
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TL" class="btn btn-dk">📁 Browse All TL Stories</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TL/readme.md" class="btn btn-ol">📄 TL readme.md</a>
+  </div>
+</section>
+
+<!-- TML STORIES -->
+<section class="sec" id="tml-stories">
+  <div class="sec-lbl">Ternary Moral Logic Fiction</div>
+  <h2>TML/ — Ternary Moral Logic Stories</h2><hr class="sec-rule">
+  <p>Stories exploring the Ternary Moral Logic framework — the Sacred Pause, Sacred Zero, Always Memory, Stewardship Council, Goukassian Promise, and the moral trace log. Organized into thematic subfolders: AI companies (Anthropic, OpenAI, DeepMind, Alibaba/Qwen, Baidu), regulatory contexts (EU AI Act, NIST, UNESCO), and character archetypes (CEOs, ORCID).</p>
+
+  <h3>Root-Level TML Stories</h3>
+  <div class="story-grid">
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Claude%20-%20The%20Day%20Five%20Governments%20Accidentally%20Became%20Constitutional%20Philosophers.md" target="_blank">The Day Five Governments Accidentally Became Constitutional Philosophers</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Claude%20-SF%20Restaurant%20The%20Binder%20That%20Broke%20Silicon%20Valley.md" target="_blank">The Binder That Broke Silicon Valley</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Claude%20Regulators%20-%20Seven%20World%20Powers%20Accidentally%20Adopted%20a%20Dead%20Man%27s%20Constitution.md" target="_blank">Seven World Powers Accidentally Adopted a Dead Man's Constitution</a></div>
+    <div class="sc"><span class="sc-tag">Claude</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Claude%20-%20A%20Technical%20Analysis%20for%20NVIDIA.md" target="_blank">A Technical Analysis for NVIDIA</a></div>
+    <div class="sc"><span class="sc-tag">DeepSeek</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/DeepSeek%20The%20Day%20the%20ISO%20Committee%20Stood%20Still.md" target="_blank">The Day the ISO Committee Stood Still</a></div>
+    <div class="sc"><span class="sc-tag">DeepSeek</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/DeepSeek%20The%20Night%20Seven%20Geniuses%20Tried%20to%20Fix%20Economics.md" target="_blank">The Night Seven Geniuses Tried to Fix Economics</a></div>
+    <div class="sc"><span class="sc-tag">DeepSeek</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/DeepSeek%20The%20Truffle%20and%20the%20Triad_%20An%20Evening%20of%20Ethical%20Dessert.md" target="_blank">The Truffle and the Triad: An Evening of Ethical Dessert</a></div>
+    <div class="sc"><span class="sc-tag">DeepSeek</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/DeepSeek%20AI%20Hallucination%20Under%20Epistemic%20Stress.md" target="_blank">Hallucination Under Epistemic Stress</a></div>
+    <div class="sc"><span class="sc-tag">Gemini</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Gemini%20%20Regulators%20%20AI%20Summit%27s%20Accidental%20Constitution.md" target="_blank">AI Summit's Accidental Constitution</a></div>
+    <div class="sc"><span class="sc-tag">Kimi</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Kimi%20-%20The%20Ternary%20Supper.md" target="_blank">The Ternary Supper</a></div>
+    <div class="sc"><span class="sc-tag">MiniMax</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/MiniMax%20AI%20%20CEOs%20%20%20The%20Great%20TML%20Catastrophe_%20A%20Summit%20Gone%20Spectacularly%20Wrong.md" target="_blank">The Great TML Catastrophe: A Summit Gone Spectacularly Wrong</a></div>
+    <div class="sc"><span class="sc-tag">Perplexity</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Perplexity%20SF%20Restaurant%20Ternary%20Tiramisu%20at%20Table%20Twelve.md" target="_blank">Ternary Tiramisu at Table Twelve</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Hotel%20Eternity.md" target="_blank">Hotel Eternity</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/French%20Riviera%20The%20Lantern%20at%20Dusk.md" target="_blank">French Riviera: The Lantern at Dusk</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/The%20Janitor%20of%20Eternity.md" target="_blank">The Janitor of Eternity</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/We%20Found%20God%20in%20a%20Binder.md" target="_blank">We Found God in a Binder</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/The%20Conference%20of%20the%20Binary%20Gods.md" target="_blank">The Conference of the Binary Gods</a></div>
+    <div class="sc"><span class="sc-tag">Lev</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Nighttime%20Miami.md" target="_blank">Nighttime Miami</a></div>
+  </div>
+
+  <div class="brow">
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML" class="btn btn-dk">📁 Browse All TML Stories</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/readme.md" class="btn btn-ol">📄 TML readme.md</a>
+  </div>
+</section>
+
+<!-- SUBFOLDERS -->
+<section class="sec" id="subfolders">
+  <div class="sec-lbl">Organized by Theme</div>
+  <h2>TML Subfolders</h2><hr class="sec-rule">
+  <p>The TML stories are organized into eight thematic subfolders — by AI company, regulatory body, or character type. Each subfolder contains stories imagining how that institution or entity encounters the TML framework.</p>
+
+  <div class="subfolder">
+    <div class="sf-head">
+      <div class="sf-icon">🤖</div>
+      <h3>Anthropic Claude</h3>
+      <span class="sf-count">6 stories</span>
+    </div>
+    <div class="pg">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Anthropic%20Claude/Claude%20AI%20%20-%20Anthropic%20The%20Day%20We%20Discovered%20We%27d%20Been%20Doing%20AI%20Alignment%20With%20Our%20Eyes%20Closed.md" target="_blank" class="pill">The Day We Discovered We'd Been Doing AI Alignment With Our Eyes Closed</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Anthropic%20Claude/Kimi%20AI%20-%20Anthropic%20Your%20Alignment%20Paradigm%20is%20a%20Beautiful%20Disaster.md" target="_blank" class="pill">Your Alignment Paradigm is a Beautiful Disaster</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Anthropic%20Claude/Preplexity%20AI%20-%20The_Sacred_Zero_Incident.md" target="_blank" class="pill">The Sacred Zero Incident</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Anthropic%20Claude/ChatGPT%20%20-%20Anthropic.md" target="_blank" class="pill">ChatGPT - Anthropic</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Anthropic%20Claude/DeepSeek%20%20-%20Anthropic.md" target="_blank" class="pill">DeepSeek - Anthropic</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Anthropic%20Claude/readme.md" target="_blank" class="pill">readme.md</a>
+    </div>
+  </div>
+
+  <div class="subfolder">
+    <div class="sf-head">
+      <div class="sf-icon">🧠</div>
+      <h3>OpenAI</h3>
+      <span class="sf-count">16 stories</span>
+    </div>
+    <div class="pg">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/OpenAI/Claude%20AI%20-%20%20The%20Day%20Ternary%20Moral%20Logic%20Broke%20My%20Kombucha%20Habit.md" target="_blank" class="pill">The Day TML Broke My Kombucha Habit</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/OpenAI/Gemini%20Flash%20-%20The%20Day%20GPT-6%20Triggered%20a%20Sacred%20Zero%20and%20Tattled%20on%20Itself%20to%20the%20Board.md" target="_blank" class="pill">The Day GPT-6 Triggered a Sacred Zero and Tattled on Itself to the Board</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/OpenAI/Grok%20AI%20-The%20Pause%20That%20Refreshed_%20My%20Accidental%20Enlightenment%20in%20the%20AI%20Apocalypse.md" target="_blank" class="pill">The Pause That Refreshed: My Accidental Enlightenment in the AI Apocalypse</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/OpenAI/Qwen%20-%20The%20Day%20My%20AI%20Refused%20to%20Bake%20a%20Cake.md" target="_blank" class="pill">The Day My AI Refused to Bake a Cake</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/OpenAI/MiniMax%20-%20A%20Senior%20Researcher%27s%20Existential%20Meltdown%20Over%20Ternary%20Moral%20Logic.md" target="_blank" class="pill">A Senior Researcher's Existential Meltdown Over TML</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/OpenAI/Perplexity%20-%20How%20I%20Learned%20to%20Love%20the%20Three-State%20Logic.md" target="_blank" class="pill">How I Learned to Love the Three-State Logic</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/OpenAI" target="_blank" class="pill">→ All 16 OpenAI stories</a>
+    </div>
+  </div>
+
+  <div class="subfolder">
+    <div class="sf-head">
+      <div class="sf-icon">🔬</div>
+      <h3>DeepMind Gemini Lab</h3>
+      <span class="sf-count">10 stories</span>
+    </div>
+    <div class="pg">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/DeepMind%20Gemini%20Lab/Claude%20AI%20%20-%20The%20Email%20That%20Broke%20the%20Gemini%20Lab.md" target="_blank" class="pill">The Email That Broke the Gemini Lab</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/DeepMind%20Gemini%20Lab/Gemini%20AI%20-%20Ternary%20Moral%20Disaster_%20A%20DeepMind%20Story.md" target="_blank" class="pill">Ternary Moral Disaster: A DeepMind Story</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/DeepMind%20Gemini%20Lab/DeepSeek%20AI%20-%20Constitutional%20Layer%20for%20Your%20Computational%20Conscience.md" target="_blank" class="pill">Constitutional Layer for Your Computational Conscience</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/DeepMind%20Gemini%20Lab/Qwen%20AI%20-%20THE%20DAY%20I%20MET%20THE%20GHOST%20IN%20THE%20MACHINE.md" target="_blank" class="pill">THE DAY I MET THE GHOST IN THE MACHINE</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/DeepMind%20Gemini%20Lab" target="_blank" class="pill">→ All 10 DeepMind stories</a>
+    </div>
+  </div>
+
+  <div class="subfolder">
+    <div class="sf-head">
+      <div class="sf-icon">🇨🇳</div>
+      <h3>Alibaba-Qwen &amp; Baidu ERNIE</h3>
+      <span class="sf-count">4 + 8 stories</span>
+    </div>
+    <div class="pg">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Alibaba-Qwen/Qwen%20AI%20-%20The%20Sacred%20Pause_%20How%20a%20Schnauzer%2C%20a%20Terminal%20Diagnosis%2C%20and%20a%202ms%20Delay%20Saved%20Our%20AI%20Souls.md" target="_blank" class="pill">How a Schnauzer, a Terminal Diagnosis, and a 2ms Delay Saved Our AI Souls</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Baidu_ERNIE_Bot/Claude%20AI%20-%20The%20Sacred%20Pause%20Arrives%20in%20Beijing.md" target="_blank" class="pill">The Sacred Pause Arrives in Beijing</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/Baidu_ERNIE_Bot/Grok%20AI%20-%20The%20Email%20That%20Broke%20My%20Morning%20Noodle%20Bowl.md" target="_blank" class="pill">The Email That Broke My Morning Noodle Bowl</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/Alibaba-Qwen" target="_blank" class="pill">→ Alibaba-Qwen folder</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/Baidu_ERNIE_Bot" target="_blank" class="pill">→ Baidu ERNIE folder</a>
+    </div>
+  </div>
+
+  <div class="subfolder">
+    <div class="sf-head">
+      <div class="sf-icon">🇪🇺</div>
+      <h3>EU AI Act</h3>
+      <span class="sf-count">5 stories</span>
+    </div>
+    <div class="pg">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/EU%20AI%20Act/Claude%20-%20The%20Day%20Brussels%20Discovered%20It%20Had%20Been%20Doing%20Everything%20Wrong.md" target="_blank" class="pill">The Day Brussels Discovered It Had Been Doing Everything Wrong</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/EU%20AI%20Act/DeepSeek%20The%20Day%20the%20EU%20AI%20Act%20Grew%20a%20Conscience.md" target="_blank" class="pill">The Day the EU AI Act Grew a Conscience</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/EU%20AI%20Act/DeepSeek%20Good%20News%20You%20Don%27t%20Need%20to%20Rewrite%20the%20AI%20Act.md" target="_blank" class="pill">Good News: You Don't Need to Rewrite the AI Act</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/EU%20AI%20Act" target="_blank" class="pill">→ All EU AI Act stories</a>
+    </div>
+  </div>
+
+  <div class="subfolder">
+    <div class="sf-head">
+      <div class="sf-icon">🏛️</div>
+      <h3>UNESCO</h3>
+      <span class="sf-count">25+ stories</span>
+    </div>
+    <div class="pg">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/UNESCO/Claude%20AI%20%20-%20UNESCO%20The%20Email%20That%20Made%20UNESCO%20Question%20Its%20Entire%20Life%20Choices.md" target="_blank" class="pill">The Email That Made UNESCO Question Its Entire Life Choices</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/UNESCO/Claude%20AI%20-%20The%20Day%20UNESCO%20Discovered%20Its%20Own%20Missing%20Soul.md" target="_blank" class="pill">The Day UNESCO Discovered Its Own Missing Soul</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/UNESCO/Qwen%20AI%20%20-%20We%20Wrote%20the%20Constitution.%20He%20Built%20the%20Court.md" target="_blank" class="pill">We Wrote the Constitution. He Built the Court.</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/UNESCO/Gemini%20Flash%20-%20The%20Sacred%20Pause%20and%20the%20Perpetual%20Caucus.md" target="_blank" class="pill">The Sacred Pause and the Perpetual Caucus</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/UNESCO" target="_blank" class="pill">→ All 25+ UNESCO stories</a>
+    </div>
+  </div>
+
+  <div class="subfolder">
+    <div class="sf-head">
+      <div class="sf-icon">📏</div>
+      <h3>NIST &amp; ORCID</h3>
+      <span class="sf-count">3 + 4 stories</span>
+    </div>
+    <div class="pg">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/NIST/DeepSeek%20The%20Day%20NIST%20Got%20a%20Moral%20Compass.md" target="_blank" class="pill">The Day NIST Got a Moral Compass</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/ORCID/Claude%20The%20Day%20We%20Accidentally%20Became%20Disciples%20of%20a%20Dead%20Man%27s%20Digital%20Testament.md" target="_blank" class="pill">Disciples of a Dead Man's Digital Testament</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/ORCID/Minimax_The_Originators_Signature.md" target="_blank" class="pill">The Originator's Signature</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/NIST" target="_blank" class="pill">→ NIST folder</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/ORCID" target="_blank" class="pill">→ ORCID folder</a>
+    </div>
+  </div>
+
+  <div class="subfolder">
+    <div class="sf-head">
+      <div class="sf-icon">💼</div>
+      <h3>CEOs</h3>
+      <span class="sf-count">6 stories</span>
+    </div>
+    <div class="pg">
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/CEOs/Claude%20-%20The%20Night%20I%20Got%20Outmaneuvered%20by%20a%20Dead%20Man%20and%20His%20Dog.md" target="_blank" class="pill">The Night I Got Outmaneuvered by a Dead Man and His Dog</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/CEOs/DeepSeek%20CEO%20Shock%20Theater%20and%20the%20TML%20Revelation.md" target="_blank" class="pill">CEO Shock Theater and the TML Revelation</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/CEOs/Perplexity%20%20CEO%20Shock%20Theater_%20The%20Night%20I%20Met%20Sacred%20Zero.md" target="_blank" class="pill">The Night I Met Sacred Zero</a>
+      <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/CEOs" target="_blank" class="pill">→ All CEO stories</a>
+    </div>
+  </div>
+</section>
+
+<!-- RUSSIAN SECTION -->
+<section class="sec" id="russian">
+  <div class="sec-lbl">Двуязычный архив</div>
+  <h2>Russian Stories — In_Russian/</h2><hr class="sec-rule">
+  <p>The <code>TML/In_Russian/</code> subfolder contains over 90 Russian-language TML stories — the largest single collection in the repository. The themes are identical to the English stories: sacred pauses, epistemic holds, AI CEOs discovering they have a conscience, Basel committees, bureaucrats encountering the future. The setting often shifts to Moscow, Suzhou, Miami, or unnamed hotels at midnight.</p>
+
+  <div class="story-grid">
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%9D%D0%BE%D0%BB%D1%8C%2C%20%D0%B8%D0%BB%D0%B8%20%D0%9A%D0%B0%D0%BA%20%D0%9B%D1%91%D0%B2%D0%BA%D0%B0%20%D0%B8%D0%B7%20%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%9C%D0%BE%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%81%D0%BF%D0%B0%D1%81%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE.md" target="_blank">Священный Ноль, или Как Лёвка из Санта-Моники спас человечество</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%20%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C.md" target="_blank">Гостиница Вечность</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/%D0%A4%D0%BE%D0%BD%D0%B0%D1%80%D1%8C%20%D0%BD%D0%B0%D0%B4%20%D0%9B%D0%B0%D0%B7%D1%83%D1%80%D0%BD%D1%8B%D0%BC%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%BC.md" target="_blank">Фонарь над Лазурным берегом</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/%D0%A2%D1%80%D0%BE%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%20%D0%B8%20%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%8C%D1%8F%D0%BA.md" target="_blank">Троичная логика и московский коньяк</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/%D0%A3%D0%B6%D0%B8%D0%BD%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D0%BB%20%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D1%83%D1%8E%20%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%83.md" target="_blank">Ужин который перевернул мировую экономику</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/2075%20%D0%B3%D0%BE%D0%B4.%20%D0%93%D0%BE%D1%80%D0%BE%D0%B4%2C%20%D0%B2%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%83.md" target="_blank">2075 год. Город, встроенный в систему</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/%D0%9D%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%93%D1%83%D0%BA%D0%B0%D1%81%D1%8F%D0%BD%D0%B0_%20%D0%A3%D0%B6%D0%B8%D0%BD%20%D0%B2%20%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0%D1%85.md" target="_blank">Наследники Гукасяна: Ужин в облаках</a></div>
+    <div class="sc sc-ru"><span class="sc-tag">Русский</span><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%9F%D0%B0%D1%83%D0%B7%D0%B0%2C%20%D0%9A%D0%BE%D1%82%D0%BE%D1%80%D0%B0%D1%8F%20%D0%A1%D0%BB%D0%BE%D0%BC%D0%B0%D0%BB%D0%B0%20%D0%91%D0%B0%D0%B7%D0%B5%D0%BB%D1%8C_%20%D0%98%D1%81%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D1%8C%20%D0%91%D1%8E%D1%80%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B0.md" target="_blank">Священная Пауза, Которая Сломала Базель</a></div>
+  </div>
+
+  <div class="brow">
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/In_Russian" class="btn btn-dk">📁 Все русские рассказы (90+)</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/TML/In_Russian/readme.md" class="btn btn-ol">📄 Readme</a>
+  </div>
+</section>
+
+<!-- AI VOICES -->
+<section class="sec" id="ai-voices">
+  <div class="sec-lbl">The Collaborators</div>
+  <h2>AI Voices in This Repository</h2><hr class="sec-rule">
+  <p>These stories were written across a multi-AI workflow — each AI system asked to imagine how it, or its institutional context, might encounter the frameworks. The result is a cross-AI portrait of the same ideas refracted through different architectures and aesthetic sensibilities.</p>
+
+  <table class="tbl">
+    <thead><tr><th>AI System</th><th>Characteristic Voice</th><th>Primary Themes</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Claude</strong></td><td>Precise, philosophical, occasionally self-aware</td><td>Governance summits, regulatory encounters, weight of decisions</td></tr>
+      <tr><td><strong>DeepSeek</strong></td><td>Drily satirical, structurally rigorous</td><td>ISO committees, hallucinations, economic conscience</td></tr>
+      <tr><td><strong>Gemini</strong></td><td>Earnest, regulatory, occasionally alarmed</td><td>BIS alignment, EU AI Act, evidence layers</td></tr>
+      <tr><td><strong>Grok</strong></td><td>Irreverent, fast, unexpectedly sincere</td><td>Sacred pauses, coffee breaks, titans</td></tr>
+      <tr><td><strong>Kimi</strong></td><td>Lyrical, patient, architecturally minded</td><td>Ternary suppers, janitors of eternity</td></tr>
+      <tr><td><strong>MiniMax</strong></td><td>Grand, operatic, catastrophe-prone</td><td>Epic quests, Zhongnanhai, US Senate adventures</td></tr>
+      <tr><td><strong>Qwen</strong></td><td>Technical, earnest, globally ambitious</td><td>BIS unified ledger, smart contracts, AI refusing cake</td></tr>
+      <tr><td><strong>Perplexity</strong></td><td>Journalistic, scenario-driven</td><td>Restaurants, Senate hearings, tiramisu</td></tr>
+      <tr><td><strong>ChatGPT</strong></td><td>Confident, occasionally overconfident</td><td>Presidential suites, epistemic hangovers</td></tr>
+      <tr><td><strong>Lev Goukassian</strong></td><td>Intimate, bilingual, morally precise</td><td>Santa Monica light, dogs on windowsills, the last honest byte</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ROOT FILES -->
+<section class="sec" id="root-files">
+  <div class="sec-lbl">Repository Core</div>
+  <h2>Root Files</h2><hr class="sec-rule">
+  <div class="pg">
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/README.md" class="pill">📄 README.md</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/LICENSE" class="pill">📄 LICENSE</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/Lev%20TL%20Quotes.md" class="pill">📄 Lev TL Quotes.md</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/Lev%20TML%20Quotes.md" class="pill">📄 Lev TML Quotes.md</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/Structural_Tree_of_TML_TL_Stories_as_April_2026.md" class="pill">📄 Structural Tree (April 2026)</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/My_Stories.png" class="pill">🖼️ My_Stories.png</a>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/%D0%92%D0%BE%D1%82%20%D0%BA%D0%B0%D0%BA%20%D1%8F%20%D0%BF%D0%B8%D1%88%D1%83%20%D1%81%D0%B2%D0%BE%D0%B8%20%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B.md" class="pill pill-ru">✍️ Вот как я пишу свои рассказы.md</a>
+    <a href="https://fractonicmind.github.io/TML_TL-Stories/stories-repository-navigation.html" class="pill">🗺️ Repository Navigation</a>
+  </div>
+
+  <div class="hbox hb-dark" style="margin-top:1.2rem">
+    <h3>✍️ Вот как я пишу свои рассказы</h3>
+    <p>The root-level Russian file — "This Is How I Write the Stories" — serves as the creative README for the entire repository. It explains the writing method, the relationship between technical specifications and their fictional doubles, and the discipline of translating voltage thresholds into human meaning. The original DeepSeek conversation that produced this document is the unofficial README for both story collections.</p>
+    <a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/%D0%92%D0%BE%D1%82%20%D0%BA%D0%B0%D0%BA%20%D1%8F%20%D0%BF%D0%B8%D1%88%D1%83%20%D1%81%D0%B2%D0%BE%D0%B8%20%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B.md" target="_blank" style="color:#e0c090;font-size:.85rem">→ Read: Вот как я пишу свои рассказы.md</a>
+  </div>
+</section>
+
+<!-- FRAMEWORKS -->
+<section class="sec" id="frameworks">
+  <div class="sec-lbl">The Technical Originals</div>
+  <h2>The Frameworks Behind the Stories</h2><hr class="sec-rule">
+  <p>Every story in this repository has a technical counterpart — a specification, a proof, or a pillar document. These are the two frameworks whose architecture these stories translate into human language:</p>
+
+  <table class="tbl">
+    <thead><tr><th>Framework</th><th>Core Concept</th><th>Published</th></tr></thead>
+    <tbody>
+      <tr><td><strong><a href="https://github.com/FractonicMind/TernaryMoralLogic">Ternary Moral Logic (TML)</a></strong></td><td>Sacred Pause · Sacred Zero · Always Memory · Stewardship Council · Goukassian Promise</td><td><a href="https://doi.org/10.1007/s43681-025-00910-6">AI and Ethics, Springer Nature (2025)</a></td></tr>
+      <tr><td><strong><a href="https://github.com/FractonicMind/TernaryLogic">Ternary Logic (TL)</a></strong></td><td>Epistemic Hold · Immutable Ledger · Goukassian Principle · Hybrid Shield · Decision Logs</td><td>AI and Ethics, Springer Nature (Accepted 2026)</td></tr>
+    </tbody>
+  </table>
+
+  <div class="brow">
+    <a href="https://github.com/FractonicMind/TernaryMoralLogic" class="btn btn-gold">🧠 TML Repository</a>
+    <a href="https://github.com/FractonicMind/TernaryLogic" class="btn" style="background:rgba(26,107,181,.85);color:white">⚖️ TL Repository</a>
+    <a href="https://doi.org/10.1007/s43681-025-00910-6" class="btn btn-ol">📘 Published Paper</a>
+    <a href="https://orcid.org/0009-0006-5966-1243" class="btn btn-gh">🔬 ORCID Profile</a>
+  </div>
+</section>
+
+</main>
+
+<!-- SIDEBAR -->
+<aside class="sidebar">
+  <div class="scard">
+    <h4>📊 Repository Stats</h4>
+    <div class="stats-card">
+      <div class="mini-stat"><span class="mini-v">398</span><span class="mini-l">Stories</span></div>
+      <div class="mini-stat"><span class="mini-v">14</span><span class="mini-l">Directories</span></div>
+      <div class="mini-stat"><span class="mini-v">2</span><span class="mini-l">Languages</span></div>
+      <div class="mini-stat"><span class="mini-v">10+</span><span class="mini-l">AI Voices</span></div>
+    </div>
+  </div>
+
+  <div class="scard">
+    <h4>📁 Quick Browse</h4>
+    <ul>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TL">TL/ Stories (English + RU)</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML">TML/ Stories (root)</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/Anthropic%20Claude">TML / Anthropic Claude</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/OpenAI">TML / OpenAI</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/DeepMind%20Gemini%20Lab">TML / DeepMind</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/UNESCO">TML / UNESCO</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/EU%20AI%20Act">TML / EU AI Act</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/NIST">TML / NIST</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/ORCID">TML / ORCID</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/CEOs">TML / CEOs</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/In_Russian">TML / Russian (90+)</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/Alibaba-Qwen">TML / Alibaba-Qwen</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/Baidu_ERNIE_Bot">TML / Baidu ERNIE</a></li>
+    </ul>
+  </div>
+
+  <div class="scard">
+    <h4>⚡ Quick Links</h4>
+    <ul>
+      <li><a href="https://fractonicmind.github.io/TML_TL-Stories/stories-repository-navigation.html">🗺️ Full Navigation</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories">⭐ GitHub Repo</a></li>
+      <li><a href="https://github.com/FractonicMind/TernaryMoralLogic">🧠 TML Framework</a></li>
+      <li><a href="https://github.com/FractonicMind/TernaryLogic">⚖️ TL Framework</a></li>
+      <li><a href="https://doi.org/10.1007/s43681-025-00910-6">📘 Published Paper</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/Lev%20TL%20Quotes.md">💬 TL Quotes</a></li>
+      <li><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/Lev%20TML%20Quotes.md">💬 TML Quotes</a></li>
+    </ul>
+  </div>
+
+  <div class="scard">
+    <h4>🐾 Vinci Says</h4>
+    <p style="font-size:.8rem;color:#4a5a6a;font-family:var(--font-d);font-style:italic;line-height:1.6">"Every specification needs a story. Every story needs a dog on the windowsill."</p>
+  </div>
+</aside>
+
+</div>
+
+<footer>
+  <div class="ft">
+    <div class="ft-brand">
+      <h3>📖 TML_TL-Stories</h3>
+      <p>The parallel architecture for public comprehension. Everything complex lives here too, just without the voltage thresholds. 398 stories in English and Russian by Lev Goukassian and AI collaborators.</p>
+      <p style="margin-top:.5rem">Creator: Lev Goukassian · ORCID: <a href="https://orcid.org/0009-0006-5966-1243" style="color:#d4a574">0009-0006-5966-1243</a> · Santa Monica, California</p>
+      <div class="ft-quote">"The stories matter as much as the specifications." — Lev Goukassian</div>
+    </div>
+    <div>
+      <h4>Story Collections</h4>
+      <ul>
+        <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TL">TL Stories</a></li>
+        <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML">TML Stories</a></li>
+        <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/In_Russian">Russian Stories (90+)</a></li>
+        <li><a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/TML/UNESCO">UNESCO Stories</a></li>
+        <li><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/Lev%20TL%20Quotes.md">TL Quotes</a></li>
+        <li><a href="https://github.com/FractonicMind/TML_TL-Stories/blob/main/Lev%20TML%20Quotes.md">TML Quotes</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Frameworks</h4>
+      <ul>
+        <li><a href="https://github.com/FractonicMind/TernaryMoralLogic">TML Repository</a></li>
+        <li><a href="https://github.com/FractonicMind/TernaryLogic">TL Repository</a></li>
+        <li><a href="https://doi.org/10.1007/s43681-025-00910-6">Published Paper</a></li>
+        <li><a href="https://fractonicmind.github.io/TML_TL-Stories/stories-repository-navigation.html">Full Navigation</a></li>
+        <li><a href="https://github.com/FractonicMind/TML_TL-Stories">GitHub Repo</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="fb">
+    <span>© 2025-2026 Lev Goukassian · TML_TL-Stories · <a href="https://github.com/FractonicMind/TML_TL-Stories">FractonicMind/TML_TL-Stories</a></span>
+    <span>398 files · 14 directories · Santa Monica, California · <a href="https://fractonicmind.github.io/TML_TL-Stories/">fractonicmind.github.io/TML_TL-Stories</a></span>
+  </div>
+</footer>
+
+<script>
+const secs = document.querySelectorAll('.sec[id]');
+const navAs = document.querySelectorAll('.nav-w a');
+const obs = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      navAs.forEach(a => {
+        a.style.color = '';
+        a.style.borderBottomColor = '';
+        if (a.getAttribute('href') === '#' + e.target.id) {
+          a.style.color = '#d4a574';
+          a.style.borderBottomColor = '#c17f3a';
+        }
+      });
+    }
+  });
+}, { threshold: 0.25, rootMargin: '-60px 0px 0px 0px' });
+secs.forEach(s => obs.observe(s));
+</script>
+</body>
+</html>
