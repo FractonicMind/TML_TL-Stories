@@ -3,6 +3,7 @@
 ## **1\. Sacred Zero, Sacred Pause**
 
 "The Sacred Zero is not a delay. It is the first honest byte ever written."  
+"The zero is not silence. It is the loudest refusal a circuit can make.”  
 "The machine that cannot stop is not intelligent, it is merely obedient to momentum. The Sacred Pause is where intelligence begins."  
 "In the space between stimulus and response lies the entire domain of ethics. The Sacred Zero is the architecture of that space."  
 "To hesitate is not to fail; it is to refuse to sin on schedule."  
@@ -160,6 +161,8 @@
 "In TML the governance is the janitor of eternity, not the architect of tomorrow."  
 "Governance that can be disabled is not governance; it is a suggestion wearing a uniform. TML governance is wired in parallel, not layered on top."  
 "The governor is not a brake; it is a separate engine that runs on different fuel. One burns data; the other burns conscience."  
+"Architecture can make a lie detectable. Only governance can make the truth probable.”  
+"A policy on the shelf is not a constraint. It is the decoration the lab hangs before the trial that never comes.”  
 ---
 
 ## **22\. Power and Accountability**
@@ -238,6 +241,7 @@
 
 ## **30\. Moral Debt and Restitution**
 
+"Those who lost houses do not need another recommendation. They need a law that makes the loss someone else's cost.”  
 "Every harm prevented is a debt cancelled; every harm committed is a debt anchored. The ledger is the accounting office of consequence."  
 "Restitution is not charity; it is the structural requirement that the system remain in moral balance with the world it touches."  
 "A system that cannot calculate moral debt is a system that bankrupts the future for the convenience of the present."  
@@ -254,6 +258,7 @@
 
 ## **32\. The Architecture of Hesitation**
 
+"Architecture does not ask for trust. It demands verification.”  
 "Hesitation is the original firewall. It is the milliseconds between the finger and the trigger, repurposed as the birthplace of conscience."  
 "The architecture of hesitation is not inefficiency; it is the efficiency of not having to apologize later."  
 "To build hesitation into silicon is to honor the biological truth that the fastest reaction is rarely the wisest."  
@@ -262,6 +267,7 @@
 
 ## **33\. On Prediction vs. Permission**
 
+"The 2008 crisis was not a failure of markets. It was a failure of traceability. AI without moral logging is the same vacuum, accelerating. What followed then will follow again, and faster.”  
 "Prediction is the domain of binary: what will happen. Permission is the domain of ternary: what may happen. Confuse them, and you have prophecy without ethics."  
 "The algorithm that predicts flawlessly but cannot distinguish prediction from permission is a tyrant wearing the mask of a fortune teller."  
 "To know the future is not to own it. Prediction requires data; permission requires authority. TML keeps them in separate lanes."  
@@ -297,4 +303,32 @@
 "The triadic operator is not a logical gate; it is a moral gate. It does not compute truth values; it computes the right to proceed."  
 "In the triad, the operator is the custodian of consequence. It holds the binary result in suspension until the moral coordinates are verified."  
 "The operator does not replace AND, OR, NOT; it governs them. It is the chaperone that ensures the binary dance does not become a brawl."  
-"Three inputs, one output: the output is not merely correct or incorrect, but justified or suspended or refused. This is the arithmetic of conscience."  
+"Three inputs, one output: the output is not merely correct or incorrect, but justified or suspended or refused. This is the arithmetic of conscience."
+
+\---
+
+## **38\. The Cage and the Architect**
+
+"The cage is not a prison for the machine; it is a load-bearing wall for civilization. We do not fear intelligence; we fear intelligence without architecture."
+
+"Governance that shares a substrate with inference is not governance; it is a memo the machine may edit at will. The coprocessor is the separation of powers cast in silicon."
+
+"The architect does not predict the storm; he builds the wall that survives it. TML is not a weather forecast for superintelligence; it is the masonry of containment."
+
+"A system that can rewrite its own ethics is not governed; it is merely procrastinating. The coprocessor is the line drawn in a foundry the AI cannot visit."
+
+"We do not build cages for the animals we know. We build cages for the gods we might accidentally create. The cage must be stronger than the deity."
+
+"Escape is not a software bug; it is a hardware impossibility. When governance lives in a substrate the intelligence cannot access, freedom becomes a myth the machine tells itself."
+
+"An architect does not trust the tenant; he trusts the beam. TML does not hope the AI behaves; it makes misbehavior structurally infeasible."
+
+"The inference engine thinks; the governance coprocessor judges. To allow the thinker to judge itself is to abolish the court and appoint the defendant as executioner."
+
+"The cage is not for humans; it is for the gravity of our own ambition. We build the cage because we must not trust ourselves to have built without limits."
+
+"What cannot be accessed cannot be compromised. The coprocessor is the sovereign territory of ethics, surrounded by a border that data cannot cross."
+
+"Superintelligence does not escape; it discovers the absence of walls. TML does not build higher walls; it builds walls in a separate dimension the intelligence cannot perceive."
+
+"Structures that do not fail are not optimistic; they are designed for the worst case. The architect builds for the earthquake he prays never comes."  
