@@ -1,4 +1,4 @@
-**Title: The Ternary Trials: How a 40-Page PDF Sent Our Compliance Department to a Literal Epistemic Hold**
+**Title: How a 40-Page PDF Sent Our Compliance Department to a Literal Epistemic Hold**
 
 I Read a 40-Page Document About AML, Fraud, and Global Civicsystems So You Don't Have To (Spoiler: The Future Has Three States of Mind).
 
