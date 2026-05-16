@@ -100,6 +100,7 @@
 
 ## **14\. Auditable AI**
 
+"The EU AI Act requires the log to exist. It does not require the log to be true. That is the difference between regulation and evidence.”  
 "An AI that cannot be audited is not artificial intelligence, it is artificial authority, and authority without audit is the definition of unaccountable power."  
 "To audit an AI is not to distrust it; it is to verify that the trust it requests has been earned, not engineered."  
 "The black box is the enemy of democracy. Auditable AI is the insistence that every powerful decision must survive the light."  
@@ -305,30 +306,17 @@
 "The operator does not replace AND, OR, NOT; it governs them. It is the chaperone that ensures the binary dance does not become a brawl."  
 "Three inputs, one output: the output is not merely correct or incorrect, but justified or suspended or refused. This is the arithmetic of conscience."
 
-\---
-
 ## **38\. The Cage and the Architect**
 
-"The cage is not a prison for the machine; it is a load-bearing wall for civilization. We do not fear intelligence; we fear intelligence without architecture."
-
-"Governance that shares a substrate with inference is not governance; it is a memo the machine may edit at will. The coprocessor is the separation of powers cast in silicon."
-
-"The architect does not predict the storm; he builds the wall that survives it. TML is not a weather forecast for superintelligence; it is the masonry of containment."
-
-"A system that can rewrite its own ethics is not governed; it is merely procrastinating. The coprocessor is the line drawn in a foundry the AI cannot visit."
-
-"We do not build cages for the animals we know. We build cages for the gods we might accidentally create. The cage must be stronger than the deity."
-
-"Escape is not a software bug; it is a hardware impossibility. When governance lives in a substrate the intelligence cannot access, freedom becomes a myth the machine tells itself."
-
-"An architect does not trust the tenant; he trusts the beam. TML does not hope the AI behaves; it makes misbehavior structurally infeasible."
-
-"The inference engine thinks; the governance coprocessor judges. To allow the thinker to judge itself is to abolish the court and appoint the defendant as executioner."
-
-"The cage is not for humans; it is for the gravity of our own ambition. We build the cage because we must not trust ourselves to have built without limits."
-
-"What cannot be accessed cannot be compromised. The coprocessor is the sovereign territory of ethics, surrounded by a border that data cannot cross."
-
-"Superintelligence does not escape; it discovers the absence of walls. TML does not build higher walls; it builds walls in a separate dimension the intelligence cannot perceive."
-
+"The cage is not a prison for the machine; it is a load-bearing wall for civilization. We do not fear intelligence; we fear intelligence without architecture."  
+"Governance that shares a substrate with inference is not governance; it is a memo the machine may edit at will. The coprocessor is the separation of powers cast in silicon."  
+"The architect does not predict the storm; he builds the wall that survives it. TML is not a weather forecast for superintelligence; it is the masonry of containment."  
+"A system that can rewrite its own ethics is not governed; it is merely procrastinating. The coprocessor is the line drawn in a foundry the AI cannot visit."  
+"We do not build cages for the animals we know. We build cages for the gods we might accidentally create. The cage must be stronger than the deity."  
+"Escape is not a software bug; it is a hardware impossibility. When governance lives in a substrate the intelligence cannot access, freedom becomes a myth the machine tells itself."  
+"An architect does not trust the tenant; he trusts the beam. TML does not hope the AI behaves; it makes misbehavior structurally infeasible."  
+"The inference engine thinks; the governance coprocessor judges. To allow the thinker to judge itself is to abolish the court and appoint the defendant as executioner."  
+"The cage is not for humans; it is for the gravity of our own ambition. We build the cage because we must not trust ourselves to have built without limits."  
+"What cannot be accessed cannot be compromised. The coprocessor is the sovereign territory of ethics, surrounded by a border that data cannot cross."  
+"Superintelligence does not escape; it discovers the absence of walls. TML does not build higher walls; it builds walls in a separate dimension the intelligence cannot perceive."  
 "Structures that do not fail are not optimistic; they are designed for the worst case. The architect builds for the earthquake he prays never comes."  
