@@ -1,4 +1,4 @@
-# The Chronicles of State Zero: My Encounter with the Sacred Pause of Global Finance
+# The Chronicles of State Zero My Encounter with the Sacred Pause of Global Finance
 
 ## Or: How I Learned to Stop Worrying and Love the Ternary Logic
 
