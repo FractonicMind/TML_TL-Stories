@@ -4,6 +4,8 @@
 
 This is the **'I've Read This Document So You Don't Have To' series**, a parallel architecture for public comprehension, built alongside the technical one. The stories matter as much as the TML and TL specifications. Everything complex lives here too, just without the voltage thresholds.
 
+![My Stories](My_Stories.png)
+
 ---
 
 ## What This Repository Is
@@ -22,6 +24,8 @@ Every idea that lives in a specification also lives here in a story, a scene, a 
 ---
 
 Over 400 stories. Two languages. Ten AI collaborators. One dog named Vinci.
+
+![The Lantern and the Schnauzer](TL/The%20Lantern%20and%20the%20Schnauzer.png)
 
 ---
 
@@ -67,6 +71,8 @@ There are also Russian stories in the root `TL/` folder, including a bilingual p
 ## The AI Collaborators
 
 These stories were not written alone. A multi-AI workflow ran throughout the development of both frameworks: Claude, DeepSeek, Gemini, Grok, Kimi, MiniMax, Qwen, Perplexity, ChatGPT, and others were asked to imagine how they or their institutional context might encounter TML and TL.
+
+![AI Collaborators Council](AI_Collaborators_Council.png)
 
 Each AI brought a distinct voice. DeepSeek writes dry satire about ISO committees. Gemini writes earnest alarm about regulatory gaps. Grok writes irreverence that turns sincere at the last sentence. MiniMax writes operatic catastrophe. Kimi writes the Janitor of Eternity as though he is a figure from a 12th-century Chinese poem.
 
