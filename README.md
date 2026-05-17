@@ -1,7 +1,4 @@
-# TML_TL-Stories
-
-> *"A story can travel where a specification cannot. I kept the stories. The framework kept the proof. Between them, nothing was lost."*
-> — Lev Goukassian
+## *"A story can travel where a specification cannot. I kept the stories. The framework kept the proof. Between them, nothing was lost."* 
 
 ---
 
@@ -11,7 +8,7 @@ This is the **'I've Read This Document So You Don't Have To' series** — a para
 
 ## What This Repository Is
 
-Two frameworks were built across eight months in Santa Monica. One is called [Ternary Moral Logic (TML)](https://github.com/FractonicMind/TernaryMoralLogic) — it gives AI systems a Sacred Pause, a moral memory, and an architecture that makes certain harms structurally impossible. The other is called [Ternary Logic (TL)](https://github.com/FractonicMind/TernaryLogic) — it applies the same triadic thinking to economic systems, financial governance, and the enforcement gap that lets institutions act without leaving a record.
+Two frameworks were built across eight months. One is called [Ternary Moral Logic (TML)](https://github.com/FractonicMind/TernaryMoralLogic) — it gives AI systems a Sacred Pause, a moral memory, and an architecture that makes certain harms structurally impossible. The other is called [Ternary Logic (TL)](https://github.com/FractonicMind/TernaryLogic) — it applies the same triadic thinking to economic systems, financial governance, and the enforcement gap that lets institutions act without leaving a record.
 
 Both frameworks have technical repositories. They contain specifications, cryptographic proofs, notarized documents, and hardware architecture papers. They are rigorous and precise and occasionally mention TSMC N2 CoWoS ReRAM 1T1R baselines.
 
@@ -24,31 +21,7 @@ Every idea that lives in a specification also lives here — in a story, a scene
 
 ---
 
-## The Structure
-
-```
-TML_TL-Stories/
-├── TL/                    # Ternary Logic stories — finance, governance, the Epistemic Hold
-│   ├── English stories (100+)
-│   └── Russian stories (20+)
-├── TML/                   # Ternary Moral Logic stories — AI ethics, the Sacred Pause
-│   ├── Anthropic Claude/
-│   ├── OpenAI/
-│   ├── DeepMind Gemini Lab/
-│   ├── Alibaba-Qwen/
-│   ├── Baidu_ERNIE_Bot/
-│   ├── EU AI Act/
-│   ├── UNESCO/
-│   ├── NIST/
-│   ├── ORCID/
-│   ├── CEOs/
-│   └── In_Russian/        # 90+ Russian-language TML stories
-├── Lev TL Quotes.md
-├── Lev TML Quotes.md
-└── Вот как я пишу свои рассказы.md
-```
-
-398 files. 14 directories. Two languages. Ten AI collaborators. One dog named Vinci.
+Over 400 stories. Two languages. Ten AI collaborators. One dog named Vinci.
 
 ---
 
@@ -163,5 +136,5 @@ Read as a collection, the repository is not just fiction. It is the intellectual
 
 ---
 
-*398 stories. Two frameworks. Eight months. One city. One window.*
+*400 plus stories. Two frameworks. Eight months. One city. One window.*
 *Santa Monica, 2025-2026.*
