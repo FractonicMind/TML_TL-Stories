@@ -1,5 +1,8 @@
 ## **Lev's TL Quotes:**
 
+“Sometimes one quote says what ten pages politely avoid.”  
+“Some visions don’t end. They simply become part of the architecture.”
+
 ### 1\. Epistemic Hold
 
 "The Epistemic Hold is not a delay. It is the first honest byte ever written."  
@@ -11,7 +14,8 @@
 "A system that decides before it understands is not governing, it is gambling with borrowed authority."  
 "Doubt is not a bug in the decision loop; it is the brake that keeps certainty from running over truth."  
 "The Epistemic Hold does not delay justice. It prevents velocity from masquerading as verdict."  
-"In the pause between stimulus and response, we build the only free will that machines cannot simulate."
+"In the pause between stimulus and response, we build the only free will that machines cannot simulate."  
+“Civilizations advance not when answers become faster, but when silence becomes intelligent.”
 
 ### 2\. Immutable Ledger
 
@@ -343,4 +347,7 @@ TL builds cages for the gods we might accidentally create. The cage must be stro
 "The triadic operator is not a logical gate; it is a moral gate. It does not compute truth values; it computes the right to proceed."  
 "In the triad, the operator is the custodian of consequence. It holds the binary result in suspension until the moral coordinates are verified."  
 "The operator does not replace AND, OR, NOT; it governs them. It is the chaperone that ensures the binary dance does not become a brawl."  
-"Three inputs, one output: the output is not merely correct or incorrect, but justified or suspended or refused. This is the arithmetic of conscience."  
+"Three inputs, one output: the output is not merely correct or incorrect, but justified or suspended or refused. This is the arithmetic of conscience."
+
+“The strongest ideas are not born in meetings. They are cornered by honest questions.”  
+“The first civilization worthy of the Moon may be the one that learns to protect it before it profits from it.”  
