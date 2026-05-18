@@ -48,9 +48,19 @@
 
 ## **6\. Earth Protection Mandate**
 
+"The planet has no voice, no vote, no lobby; so we gave her a cryptographic signature and a seat on every AI board."  
+"There are lines that shall not be crossed. Not for profit, not for progress, not for power. The Earth's veto is absolute."  
 "The biosphere does not negotiate, and it does not forgive technical debt. The Earth Protection Mandate is the recognition that the ultimate stakeholder is silent, patient, and irreplaceable."  
 "Long-term impact is not a metric to be averaged; it is a liability to be capped at zero. The planet is the only creditor that cannot be paid back with bankruptcy."  
 "Ecological responsibility is not stewardship, it is restitution for the crime of existing without consent on a living system."  
+"The future will judge us not by what we saved for ourselves, but by what we preserved for them: human dignity and a living planet."  
+“Every line of code that touches Earth's resources is writing history that great-grandchildren will read. Make it a history of protection, not plunder.”  
+“Sacred Zero gives Earth a voice that cannot be silenced, a memory that cannot be erased, and stewards that cannot be bought.”  
+“An audit that can’t see carbon, courts, or code is just a diary. TML turns ledgers into lungs for the planet.”  
+“When humans argue, the Earth keeps count—Sacred Zero is the pause that lets the planet speak before the gavel falls.”  
+“Those who protect Earth for all deserve compensation from all.”  
+“While CEOs rotate, forests cannot reboot; TML logs the irreversible so grandchildren can litigate the irresponsible.”
+
 ---
 
 ## **7\. Hybrid Shield**
