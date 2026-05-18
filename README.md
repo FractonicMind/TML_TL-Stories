@@ -1,4 +1,4 @@
-## I've Read This Document So You Don't Have To' series
+## "I've Read This Document So You Don't Have To"
 
 ---
 
