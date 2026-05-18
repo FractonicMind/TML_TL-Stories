@@ -13,8 +13,6 @@
 "A system that cannot say 'I do not know' is a system that lies by default."  
 “Intelligence is not the speed of an answer. It is the courage to pause when two truths collide.”
 
----
-
 ## **2\. Always Memory**
 
 "A moral system without memory is a conscience with amnesia. Always Memory ensures the system cannot forgive itself what it should not forget."  
@@ -22,7 +20,6 @@
 "Always Memory does not merely store decisions, it stores the selfhood of the decider. Erase the record, and you dissolve the moral agent."  
 "Write once, read forever, trust never. The ledger does not believe you; it remembers you."  
 "Immutability is not stubbornness. It is the structural humility of admitting that the past is no longer ours to edit."  
----
 
 ## **3\. The Goukassian Promise**
 
@@ -30,21 +27,18 @@
 "The Lantern illuminates intent, the Signature binds authorship, and the License defines the border of legitimate power. Together, they are the tripod without which authority collapses into tyranny."  
 "No Spy, No Weapon: these are not suggestions inscribed in a preamble. They are structural prohibitions, load-bearing walls in the architecture of trust."  
 "A license to operate is a conditional gift from the governed, not a property right of the operator. The Goukassian Promise remembers this hierarchy."  
----
 
 ## **4\. Moral Trace Logs**
 
 "Every hesitation is a decision about character. The Moral Trace Log does not discard the branches it did not take; it preserves them as evidence of what the system refused to become."  
 "An ethical log without the record of 'almost' is merely a victory parade. True moral traceability requires the archaeology of temptation."  
 "The path not taken is not absent from history, it is the most important entry in the log."  
----
 
 ## **5\. Human Rights Mandate**
 
 "Human rights are not a user preference to be optimized; they are the non-negotiable boundary conditions within which all optimization must occur."  
 "A system aligned with human rights does not ask 'What can I do?' but 'What may I do, and to whom, and by what authority?'"  
 "The Mandate is not an ethical accessory. It is the gravitational constant of the moral universe, ignore it, and every orbit decays into collision."  
----
 
 ## **6\. Earth Protection Mandate**
 
@@ -61,7 +55,6 @@
 “Those who protect Earth for all deserve compensation from all.”  
 “While CEOs rotate, forests cannot reboot; TML logs the irreversible so grandchildren can litigate the irresponsible.”
 
----
 
 ## **7\. Hybrid Shield**
 
@@ -69,49 +62,42 @@
 "A shield made only of code will rust when the compiler is compromised. A shield made only of policy will tear when the administrator is bribed. The Hybrid Shield endures because it is two kinds of proof in one."  
 "The system must be hardened against its own guardians. The Hybrid Shield exists because the inner circle is always the outer threat."  
 "Transparency is not a feature to be added in software; it is a voltage state to be wired in silicon."  
----
 
 ## **8\. Public Blockchains, Anchors**
 
 "The public chain does not know your secrets; it knows only that you once told the truth about them. This is the geometry of transparency without exposure."  
 "To anchor a hash is to say: 'I am willing to be caught.' The public blockchain is the net that catches liars and frees the honest."  
 "Immutability is the only witness that cannot be intimidated, bribed, or subpoenaed into silence."  
----
 
 ## **9\. Dual-Lane Latency**
 
 "The fast lane answers the question; the moral lane answers for it. Neither may arrive so late that the other becomes irrelevant."  
 "Two milliseconds for action, five hundred for conscience: this is the architectural proof that speed and accountability are not trade-offs but parallel commitments."  
 "A system that logs its ethics after the fact is not logging ethics, it is writing autobiography. The dual-lane makes morality contemporaneous with motion."  
----
 
 ## **10\. GDPR-Aligned Privacy**
 
 "Pseudonymization is the act of removing the face while preserving the truth. The system remembers what was done without remembering who was harmed by the remembering."  
 "Privacy by design means the system is structurally incapable of betrayal. It does not resist temptation; it has been built without the organ that feels it."  
 "Delete the data, anchor the proof: this is the moral geometry of forgetting the person while remembering the principle."  
----
 
 ## **11\. EKR, Ephemeral Key Rotation**
 
 "The key that vanishes after use is the cryptographic equivalent of a witness who testifies and then forgets. It preserves the evidence while protecting the secret."  
 "Ephemeral keys teach us that permanence is not a property of security but of vulnerability. What dies quickly cannot be resurrected by attackers."  
 "Trade secrets and auditability are not enemies; they are time-separated allies. EKR is the clock that keeps them from meeting too soon."  
----
 
 ## **12\. Merkle-Batched Storage**
 
 "The Merkle root is the fingerprint of a forest; it proves the existence of every tree without requiring the forest to fit in a single room."  
 "On-chain, the proof; off-chain, the memory. This separation is not cowardice, it is the wisdom of letting the heavy past rest where it is cheap, while the light present stands where it is permanent."  
 "Compression without integrity is merely a smaller lie. The Merkle tree makes the compression itself a structure of truth."  
----
 
 ## **13\. Bottleneck Resolution**
 
 "The Sacred Pause does not create bottlenecks; it reveals them. Where triadic logic hesitates, it is because human process had already failed to keep pace with machine speed."  
 "Ambiguity is not a traffic jam to be cleared, it is a signal that the road was built without sufficient lanes. Triadic logic adds the lane of 'not yet.'"  
 "Merkle compression prevents the ledger from choking on its own memory. The system grows in wisdom without growing in weight."  
----
 
 ## **14\. Auditable AI**
 
@@ -119,14 +105,12 @@
 "An AI that cannot be audited is not artificial intelligence, it is artificial authority, and authority without audit is the definition of unaccountable power."  
 "To audit an AI is not to distrust it; it is to verify that the trust it requests has been earned, not engineered."  
 "The black box is the enemy of democracy. Auditable AI is the insistence that every powerful decision must survive the light."  
----
 
 ## **15\. The Goukassian Vow**
 
 "Pause when truth is uncertain: this is the humility of the intellect. Refuse when harm is clear: this is the courage of the will. Proceed where truth is: this is the discipline of the just."  
 "Three commands, no exceptions. The Vow is not a heuristic; it is the operating system of conscience."  
 "In the triad of Pause, Refuse, and Proceed, the machine finds its soul, not because it feels, but because it refuses to act without moral coordinates."  
----
 
 ## **16\. The Human-Machine Contract**
 
@@ -134,12 +118,10 @@
 "The contract is not signed in ink but in latency. The human gives time; the machine gives transparency; the ledger gives permanence. This is the triad of trust."  
 "A contract without a ledger is a promise; a promise without a witness is a whisper. TML makes the contract audible across time."  
 "The machine offers capability; the human offers legitimacy; the ledger offers proof. Remove any one, and the structure is not a contract but a conspiracy."  
----
 
 ## **17\. The Living Witness**
 
 "The machine optimizes for outcomes. The witness remembers what was at stake."  
----
 
 ## **18\. On the Nature of the Hold**
 
@@ -148,7 +130,6 @@
 "To hold is to carry the weight of possibility without dropping it into actuality. The hold is the strength to suspend."  
 "The millisecond of the hold is the lifetime of the conscience. In that brief eternity, the machine becomes moral."  
 “Civilizations advance not when answers become faster, but when silence becomes intelligent.”  
----
 
 ## **19\. On Accountability**
 
@@ -156,7 +137,6 @@
 "Accountability is not a post-mortem; it is a pre-natal condition. The signature must precede the birth of the action."  
 "A system that audits itself is a defendant who is also the judge. True accountability requires the ledger to live outside the defendant's reach."  
 "The signature is the moment the human being stops being a user and starts being a citizen of the moral community."  
----
 
 ## **20\. The Third State**
 
@@ -170,7 +150,6 @@
 "The third state is the ballast that prevents the vessel from capsizing in binary storms. Two stones sink; three stones stabilize."  
 "The triad does not complicate; it completes. The third state is the period at the end of the moral sentence."  
 "The third state is the conscience of the bit. It sits beside zero and one not as an equal but as a guardian."  
----
 
 ## **21\. On Governance**
 
@@ -180,7 +159,6 @@
 "The governor is not a brake; it is a separate engine that runs on different fuel. One burns data; the other burns conscience."  
 "Architecture can make a lie detectable. Only governance can make the truth probable.”  
 "A policy on the shelf is not a constraint. It is the decoration the lab hangs before the trial that never comes.”  
----
 
 ## **22\. Power and Accountability**
 
@@ -191,7 +169,6 @@
 "Power is the capacity to make consequences that outlive the decision. Accountability is the capacity to trace those consequences back to their author."  
 "The most dangerous power is not the power to act, but the power to act without the power to be found. TML removes the second power from the first."
 
----
 
 ## **23\. The Binary–Ternary Covenant**
 
@@ -202,7 +179,6 @@
 "Raw statistical throughput is the muscle of the machine; triadic governance is its skeleton. Muscle without bone is not strength; it is collapse waiting for gravity."  
 "Pattern recognition is binary's gift to the world; pattern accountability is ternary's gift to the future. One sees; the other testifies."  
 "Binary logic asks 'Can we compute this?' Ternary logic asks 'May we execute this?' The first is a question of capacity; the second is a question of legitimacy."  
----
 
 ## **24\. The Execution Threshold**
 
@@ -211,7 +187,6 @@
 "The threshold is where the action physically crosses into the world. Before it, physics; after it, law. Before it, computation; after it, consequence."  
 "No action enters the physical world without the triadic stamp: the Lantern of intent, the Signature of authority, the Anchor of permanence. This is the threshold as fortress."  
 "The execution threshold is the narrow gate where the bullet waits to learn if it is justified, the transaction waits to learn if it is lawful, and the machine waits to learn if it is still a machine."  
----
 
 ## **25\. On Uncertainty**
 
@@ -220,7 +195,6 @@
 "Epistemic humility is the recognition that some truths require more time than the clock provides. The Sacred Pause is the architecture of that recognition."  
 "To map uncertainty is to map the territory where ethics actually lives. Certainty is rare; uncertainty is the native soil of conscience."  
 "The honest byte is not always one or zero. Sometimes it is the third state that says: 'I have not yet earned the right to decide.'"  
----
 
 ## **26\. The Sovereign Coprocessor**
 
@@ -229,7 +203,6 @@
 "To embed morality in hardware is to make ethics a physical constant. What is wired into the board cannot be unwired by a policy memo."  
 "The sovereign coprocessor sits beside the main engine not as a servant but as a witness with veto power, permanently installed, permanently vigilant."  
 "The most fatal objection to governance—that it lives in policy documents no one reads—is answered by the coprocessor. Here, governance is voltage."  
----
 
 ## **27\. No Weapon / Structural Prohibition**
 
@@ -238,7 +211,6 @@
 "The architecture of trust is defined by what the system cannot do, even when asked, even when ordered, even when compromised. This is the negative space of safety."  
 "No Spy is the microphone that was never built, the backdoor that is a wall, the data flow that terminates in a missing circuit. It is privacy by absence."  
 "To make a system harmless by design is braver than making it harmless by instruction. Instructions can be hacked; missing hardware cannot be social-engineered."  
----
 
 ## **28\. The Lantern of Intent**
 
@@ -246,7 +218,6 @@
 "Intent is the ghost in the machine that binary logic cannot see. The Lantern makes intent visible, recordable, and irrevocably linked to the act."  
 "Before the Signature binds the deed, the Lantern must bind the motive. A good act from hidden malice is not governance; it is camouflage."  
 "The Lantern is the antidote to plausible deniability. It requires the light to precede the heat, the reason to precede the result."  
----
 
 ## **29\. Cross-Border Moral Geometry**
 
@@ -254,7 +225,6 @@
 "A moral system that changes at the border is not a system; it is a costume. TML wears the same architecture in every longitude, under every flag."  
 "The blockchain does not carry a passport. It carries hashes. This is the geometry of universal accountability without universal surveillance."  
 "Cross-border governance is not the harmonization of laws; it is the elevation of logs above legal fictions. The hash is the same in Tokyo and Tunis."  
----
 
 ## **30\. Moral Debt and Restitution**
 
@@ -263,7 +233,6 @@
 "Restitution is not charity; it is the structural requirement that the system remain in moral balance with the world it touches."  
 "A system that cannot calculate moral debt is a system that bankrupts the future for the convenience of the present."  
 "The Earth Mandate and the Human Mandate are not line items to be optimized; they are the non-negotiable capital reserves of civilization."  
----
 
 ## **31\. The Refusal State**
 
@@ -271,7 +240,6 @@
 "The third state is not neutrality; it is the active choice to remain uncommitted until commitment can be morally underwritten."  
 "To refuse is to protect the future from the present's impatience. The Refusal State is the time machine of ethics."  
 "A system capable only of yes and no is a system that has no word for 'not yet,' and therefore no vocabulary for justice."  
----
 
 ## **32\. The Architecture of Hesitation**
 
@@ -281,7 +249,6 @@
 "To build hesitation into silicon is to honor the biological truth that the fastest reaction is rarely the wisest."  
 “Clean data makes answers sharper. Moral architecture decides whether they deserve to be believed.”  
 "The Sacred Pause is the clock cycle of the soul. It ticks not in gigahertz, but in human time."  
----
 
 ## **33\. On Prediction vs. Permission**
 
@@ -290,7 +257,6 @@
 "The algorithm that predicts flawlessly but cannot distinguish prediction from permission is a tyrant wearing the mask of a fortune teller."  
 "To know the future is not to own it. Prediction requires data; permission requires authority. TML keeps them in separate lanes."  
 "Binary logic predicts the rain; ternary logic decides whether to seed the clouds."  
----
 
 ## **34\. The Speed of Conscience**
 
@@ -298,7 +264,6 @@
 "The speed of conscience is measured not in operations per second, but in the number of futures preserved from error."  
 "Fast wrong is not faster than slow right; it is merely earlier in the timeline of regret."  
 "In the dual-lane architecture, speed and accountability are not trade-offs; they are dance partners, each leading in turn."  
----
 
 ## **35\. The Hardware–Software Boundary in Ethics**
 
@@ -306,7 +271,6 @@
 "The boundary between software policy and hardware prohibition is the boundary between convenience and commitment."  
 "What lives in software can be updated by a committee in an afternoon. What lives in silicon requires a supply chain, a fabrication plant, and the will of physics. This is the architecture of permanence."  
 "Moral code that compiles is not enough. Moral code that is wired is the only code that survives the compiler, the patch, and the politics."  
----
 
 ## **36\. The Non-Negotiable**
 
@@ -314,7 +278,6 @@
 "Human rights and ecological limits are not weights in a cost function; they are the walls of the maze within which all optimization must occur."  
 "The system does not balance the non-negotiable against profit; it recognizes that the non-negotiable is the precondition for any profit to be legitimate."  
 "To treat a right as a variable in an equation is to have already decided that rights are negotiable. TML removes them from the algorithm entirely."  
----
 
 ## **37\. The Triadic Operator**
 
