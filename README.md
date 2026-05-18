@@ -1,4 +1,8 @@
-## *"A story can travel where a specification cannot. I kept the stories. The framework kept the proof. Between them, nothing was lost."* 
+## I've Read This Document So You Don't Have To' series
+
+---
+
+### *"A story can travel where a specification cannot. I kept the stories. The framework kept the proof. Between them, nothing was lost."* 
 
 ---
 
