@@ -1,7 +1,8 @@
 ## **Lev's TL Quotes:**
 
 “Sometimes one quote says what ten pages politely avoid.”  
-“Some visions don’t end. They simply become part of the architecture.”
+“Some visions don’t end. They simply become part of the architecture.”  
+“A good quote sounds smart. A great one changes how a person formulates a thought in his own mind.”
 
 ### 1\. Epistemic Hold
 
@@ -151,6 +152,7 @@ The system generates the log, the lab controls the log, and the court weighs the
 
 ### 15\. Ternary Logic, The Third State
 
+“The binary system is a speedometer. Ternary Logic is also a fuel sensor, a brake wear indicator, and a technical condition warning. The system doesn't just decide, it thinks about the solution.”  
 "Binary logic built the bridge; ternary governance installs the railing."  
 "In the triad, the third state is not compromise, it is conscience."  
 "A binary boat asks only: sail or sink? The TL vessel asks: sail, reef, or heave-to, and writes the reason in the log before the wind changes."  
