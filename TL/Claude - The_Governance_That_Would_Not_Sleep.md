@@ -1,4 +1,4 @@
-# The Governance That Would Not Sleep
+## The Governance That Would Not Sleep
 
 The document arrived on a Tuesday, which is the cruelest day for a revelation, because it is too far from any weekend for anyone to recover properly.
 
