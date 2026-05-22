@@ -2,7 +2,8 @@
 
 “Sometimes one quote says what ten pages politely avoid.”  
 “Some visions don’t end. They simply become part of the architecture.”  
-“A good quote sounds smart. A great one changes how a person formulates a thought in his own mind.”
+“A good quote sounds smart. A great one changes how a person formulates a thought in his own mind.”  
+“The dangerous ideas are rarely the loudest ones. They are the ones engineers quietly recognize as technically possible.”
 
 ## **1\. Sacred Zero, Sacred Pause**
 
@@ -33,7 +34,8 @@
 
 "Every hesitation is a decision about character. The Moral Trace Log does not discard the branches it did not take; it preserves them as evidence of what the system refused to become."  
  "An ethical log without the record of 'almost' is merely a victory parade. True moral traceability requires the archaeology of temptation."  
- "The path not taken is not absent from history, it is the most important entry in the log."
+ "The path not taken is not absent from history, it is the most important entry in the log."  
+“The future rarely arrives looking like fiction. It arrives looking like procurement language with consequences.”
 
 ## **5\. Human Rights Mandate**
 
@@ -133,10 +135,10 @@
 
 ## **19\. On Accountability**
 
-"A signature is not a formality. It is the moment a human being stops hiding behind a system."  
- "Accountability is not a post-mortem; it is a pre-natal condition. The signature must precede the birth of the action."  
+"A signature is not a formality. It is the moment a human being stops hiding behind a system.” "Accountability is not a post-mortem; it is a pre-natal condition. The signature must precede the birth of the action."  
  "A system that audits itself is a defendant who is also the judge. True accountability requires the ledger to live outside the defendant's reach."  
- "The signature is the moment the human being stops being a user and starts being a citizen of the moral community."
+ "The signature is the moment the human being stops being a user and starts being a citizen of the moral community."  
+“The best systems are not the ones that speak the loudest. They are the ones that remain standing after the applause fades.”
 
 ## **20\. The Third State**
 
@@ -255,7 +257,8 @@
  "Prediction is the domain of binary: what will happen. Permission is the domain of ternary: what may happen. Confuse them, and you have prophecy without ethics."  
  "The algorithm that predicts flawlessly but cannot distinguish prediction from permission is a tyrant wearing the mask of a fortune teller."  
  "To know the future is not to own it. Prediction requires data; permission requires authority. TML keeps them in separate lanes."  
- "Binary logic predicts the rain; ternary logic decides whether to seed the clouds."
+ "Binary logic predicts the rain; ternary logic decides whether to seed the clouds."  
+“Perfect systems belong to religion. Durable systems survive contact with adversaries.”
 
 ## **34\. The Speed of Conscience**
 

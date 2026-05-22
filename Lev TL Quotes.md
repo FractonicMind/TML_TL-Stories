@@ -2,7 +2,8 @@
 
 “Sometimes one quote says what ten pages politely avoid.”  
 “Some visions don’t end. They simply become part of the architecture.”  
-“A good quote sounds smart. A great one changes how a person formulates a thought in his own mind.”
+“A good quote sounds smart. A great one changes how a person formulates a thought in his own mind.”  
+“The dangerous ideas are rarely the loudest ones. They are the ones engineers quietly recognize as technically possible.”
 
 ### 1\. Epistemic Hold
 
@@ -47,7 +48,8 @@ The system generates the log, the lab controls the log, and the court weighs the
 "Auditability is not an afterthought; it is the continuation of the decision into the future."  
 "A decision without a log is a thought without a body. It leaves no trace, and therefore no responsibility."  
 "The log is not the footnote to power; it is the spine. Governance without logs is a ghost wearing a crown."  
-"We do not record decisions to remember them. We record them so the future can cross-examine us."
+"We do not record decisions to remember them. We record them so the future can cross-examine us."  
+“The future rarely arrives looking like fiction. It arrives looking like procurement language with consequences.”
 
 ### 5\. Economic Rights, Transparency Mandate
 
@@ -181,7 +183,8 @@ The system generates the log, the lab controls the log, and the court weighs the
 "The most dangerous administrator is not the corrupt one. It is the well-intentioned one with no log."  
 "Power that cannot be logged cannot be trusted. Accountability that cannot be enforced cannot be called by its name."  
 "Where power flows in one direction, corruption is the laminar flow. Turbulence—checks, vetoes, rotations—is the only aerodynamics of integrity."  
-"Accountability is not the punishment after the crime. It is the circuit breaker installed before the voltage rises."
+"Accountability is not the punishment after the crime. It is the circuit breaker installed before the voltage rises."  
+“The best systems are not the ones that speak the loudest. They are the ones that remain standing after the applause fades.”
 
 ### 18\. The Human-Machine Contract
 
@@ -321,6 +324,7 @@ TL builds cages for the gods we might accidentally create. The cage must be stro
 "Prediction is the domain of binary: what will happen. Permission is the domain of ternary: what may happen. Confuse them, and you have prophecy without ethics."  
 "The algorithm that predicts flawlessly but cannot distinguish prediction from permission is a tyrant wearing the mask of a fortune teller."  
 "To know the future is not to own it. Prediction requires data; permission requires authority. TL keeps them in separate lanes."  
+“Perfect systems belong to religion. Durable systems survive contact with adversaries.”  
 "Binary logic predicts the rain; ternary logic decides whether to seed the clouds."
 
 ### 34\. The Speed of Conscience
