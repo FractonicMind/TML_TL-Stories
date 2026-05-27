@@ -1,4 +1,4 @@
-The Sacred Pause at the Peninsula
+## The Sacred Pause at the Peninsula
 
 The conference brochure had been printed on heavy cream stock, the kind that costs approximately three dollars per sheet and signals to attendees that their registration fee of four thousand seven hundred dollars was justified by the weight of the paper alone. The title read "AI Webinar | Governing Trustworthy AI Outputs in a Sensor-Dense Society: Privacy, Auditability and Responsible Deployment," and beneath it, in a font so restrained it was practically whispering, the date: May 29, 2026, Bangkok, The Peninsula Hotel.
 
