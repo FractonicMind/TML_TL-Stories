@@ -24,7 +24,12 @@
 "TL turns governance from a social promise into a cryptographic obligation."  
 "In binary systems, uncertainty becomes risk. In TL, uncertainty becomes a protected state."  
 execution."  
-"TL does not eliminate human failure. It makes failure visible, traceable, and governable."
+"TL does not eliminate human failure. It makes failure visible, traceable, and governable."  
+“The deepest crises do not destroy the present. They steal pieces of the future.”  
+“Good risk management is less about predicting the exact disaster and more about creating systems that fail gracefully when surprises occur.”  
+“The wisest guardians do not prepare for yesterday's storm. They prepare for the fact that storms exist.”  
+“Wisdom begins when a system stops asking what will happen and starts asking what must never happen.”  
+“Civilizations survive mistakes. What destroys them is forgetting who made them.”
 
 ### 1\. Epistemic Hold
 
@@ -405,3 +410,22 @@ TL builds cages for the gods we might accidentally create. The cage must be stro
 “The greatest weakness of intelligence is isolation from contradiction.”  
 “The orchestra mattered more than the soloist; civilization always does.”
 
+### 40\. Financial Crisis 
+
+“Financial crises rarely begin with poverty. They begin with incentives that make dishonesty profitable. Ternary Logic records the incentives before they become disasters.”  
+“A foreclosure is not the failure of a family. It is often the final receipt for risks taken far above their heads. Ternary Logic follows the receipt back to its source.”  
+“Markets recover faster than memories. Ternary Logic exists for the people who must live with both.”  
+“Every financial collapse leaves two ledgers: one of losses and one of responsibility. History usually preserves the first and misplaces the second.”  
+“The danger is not that machines will cause the next crisis. The danger is that nobody will be able to prove who instructed the machines to take the risk.”  
+“A civilization becomes fragile when profits are audited more rigorously than decisions.”  
+“When a million people lose their homes, the question is not what failed. The question is who knew it was failing and continued anyway.”  
+“Financial storms are inevitable. Institutional amnesia is optional. Ternary Logic was designed to cure the second.”  
+“The next crisis may arrive through AI, algorithms, or instruments not yet invented. Accountability must be older and stronger than technology itself.”  
+“People do not lose everything because a chart moves downward. They lose everything because someone, somewhere, normalized a dangerous decision.”  
+“The purpose of Ternary Logic is not to guarantee perfect decisions. It is to guarantee that no decision disappears into the fog afterward.”  
+“Banks can be rescued. Markets can be stabilized. Trust, once liquidated, is the most expensive asset to rebuild.”  
+“Civilizations survive recessions. They survive bubbles. They survive crashes. What they struggle to survive is a culture where responsibility evaporates faster than wealth.”  
+“A crisis becomes a tragedy when victims are documented and decision makers are not.”  
+“Ternary Logic cannot stop every storm. But after the storm, it leaves footprints where others leave excuses.”  
+“Future generations don't need perfect markets. They need evidence strong enough to tell the truth when the markets fail.”  
+“A market crash is a graph. A financial crisis is a family dinner where someone quietly says, "We have to sell the house.””
