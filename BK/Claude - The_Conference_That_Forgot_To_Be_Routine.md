@@ -1,4 +1,4 @@
-# The Conference That Forgot To Be Routine
+## The Conference That Forgot To Be Routine
 
 The Anantara Riverside Bangkok Resort had, over a distinguished career of hosting global gatherings, developed an institutional talent for absorbing moderate intellectual disruption. Conference rooms named after rivers and ancient kingdoms had witnessed trade disputes, competing economic schools, and the occasional diplomat who insisted on speaking past his allotted seven minutes. The hotel accommodated all of this with the practiced equanimity of an establishment that charged three hundred and forty US dollars per night and expected its guests to behave accordingly.
 
