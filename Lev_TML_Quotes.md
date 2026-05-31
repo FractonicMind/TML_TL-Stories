@@ -1,4 +1,4 @@
-# **Lev’s TML Quotes**
+# **Lev’s Ternary Moral Logic Quotes**
 
 ## **1\. Goukassian Vow**
 
@@ -661,4 +661,31 @@
 “Books preserve words; papers preserve questions.”
 
 “Not every builder leaves a monument. Some leave blueprints.”
+
+## **45\. Creating While Time Watches**
+
+"Some works are built from inspiration. Others are built from the refusal to surrender the time that remains."  
+"The diagnosis changed my horizon, but it did not change my obligation to build."  
+"When the future became uncertain, purpose became precise."  
+"I stopped asking how much time was left and started asking what was worth doing with it."  
+"A difficult truth visited my life. It left behind an unexpected gift: clarity."  
+"Mortality did not teach me how to die. It taught me how to prioritize."  
+"The body was fighting a disease. The mind was building a legacy."  
+"Some people count the days they have left. I counted the ideas that still deserved to exist."  
+"I discovered that purpose grows strongest when time becomes visible."  
+"The most meaningful work of my life began the day I understood that life was finite."  
+"A prognosis can predict a future. It cannot dictate what you create before arriving there."  
+"The illness reduced many things. It increased the value of every remaining hour."  
+"When comfort disappeared, contribution took its place."  
+"I once used my intelligence to improve my life. Later, I used it to leave something behind."  
+"The question changed from 'What do I want?' to 'What can I give back?' Everything changed after that."  
+"A life is measured twice: once by what it receives, and again by what it returns."  
+"The frameworks were not born from certainty. They were born from urgency."  
+"I was given a reminder that time is limited. In return, I gave my remaining time a mission."  
+"The greatest surprise of adversity was discovering how much meaningful work still remained possible."  
+"If these ideas outlive me, then part of me will continue asking questions long after my voice is gone."  
+"The doctor gave me a prognosis. Society gave me a lifetime. My work became a way of saying thank you."  
+"Not every legacy is built from success. Some are built from refusing to let hardship have the final word."  
+“The clock became louder. So did the purpose.”  
+“An ending is not the moment life stops. It is the moment every remaining chapter becomes intentional.”
 
