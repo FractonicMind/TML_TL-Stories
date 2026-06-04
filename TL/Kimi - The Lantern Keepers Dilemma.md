@@ -1,4 +1,4 @@
-##"The Lantern Keeper's Dilemma
+## The Lantern Keeper's Dilemma
 
 Fifty years ago, Lev Goukassian signed his Voluntary Succession Declaration in a Zurich notary's office at nine in the morning, then ate a croissant that he complained was too buttery. I know this because I was there, holding the pen. He had designed Ternary Logic to outlive him. He had embedded the Goukassian Vow into hardware gates, into constitutional schema, into the very voltage states of memristive cells. He had believed, with the ferocity of a man who had faced his own mortality and chosen to build rather than despair, that a system could be made incorruptible if only its architecture were honest enough.
 
