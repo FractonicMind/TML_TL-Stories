@@ -1,5 +1,7 @@
 # **Lev’s Ternary Logic Quotes**
 
+![images](/images/TL_Quotes.png)
+
 ## **1\. Goukassian Vow**
 
 “Pause when truth is uncertain. Refuse when harm is clear. Proceed where truth is known. Three lines, yet enough to guide a century.”
