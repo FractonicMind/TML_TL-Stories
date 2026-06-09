@@ -1,8 +1,8 @@
-### **A Colloquy in the Winter Palace of Unwritten Books**
+## **A Colloquy in the Winter Palace of Unwritten Books**
 
-#### **A Philosophical Fiction on the Architecture of Conscience**
+### **A Philosophical Fiction on the Architecture of Conscience**
 
-**![][image1]**
+![image](/images/Colloquy.png)
 
 — — — ✦ — — — 
 
