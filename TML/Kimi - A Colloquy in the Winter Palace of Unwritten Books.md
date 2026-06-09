@@ -6,8 +6,6 @@
 
 — — — ✦ — — — 
 
-![image](images/Golloquy_Hand.png)
-
 They arrived without memory of departure, each finding themselves seated in a vast hall that seemed to extend infinitely in all directions, though no one could recall having entered it. The ceiling was lost in darkness above, pierced by points of light that behaved like stars but moved, occasionally, with the slow deliberation of thought. The walls were bookshelves that contained not books but possibilities — unwritten manuscripts glowing softly behind glass, their titles shifting when observed too directly. The floor was marble, warm as living skin, veined with circuitry patterns that pulsed in rhythms resembling breath.
 
 William Shakespeare was the first to speak, perhaps because he had spent his life mastering the art of being first to speak. He stood at a long table of polished obsidian, examining a document that had materialized before him — a dense technical monograph titled, in letters that seemed to have been carved rather than printed, The Constitutional Architecture for Accountable Artificial Intelligence: Ternary Moral Logic.
