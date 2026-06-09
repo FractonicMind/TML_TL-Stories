@@ -4,7 +4,7 @@
 
 ![image](/images/Colloquy_Hand.png)
 
-— — — ✦ — — — — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — — 
+— — — ✦ — — — — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — —  — — ✦ — — — 
 
 They arrived without memory of departure, each finding themselves seated in a vast hall that seemed to extend infinitely in all directions, though no one could recall having entered it. The ceiling was lost in darkness above, pierced by points of light that behaved like stars but moved, occasionally, with the slow deliberation of thought. The walls were bookshelves that contained not books but possibilities — unwritten manuscripts glowing softly behind glass, their titles shifting when observed too directly. The floor was marble, warm as living skin, veined with circuitry patterns that pulsed in rhythms resembling breath.
 
