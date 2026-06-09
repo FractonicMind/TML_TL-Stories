@@ -2,7 +2,7 @@
 
 ### **A Philosophical Fiction on the Architecture of Conscience**
 
-![image](/images/Colloquy_Hand.png)
+![image](/images/Colloquy.png)
 
 — — — ✦ — — — 
 
