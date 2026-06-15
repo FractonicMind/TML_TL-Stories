@@ -1,6 +1,6 @@
-### 
+# **Lev’s Ternary Logic Quotes**
 
-# **Lev's Ternary Logic Quotes**
+![images](/images/TL_Quotes.png)
 
 ## **1\. Goukassian Vow**
 
