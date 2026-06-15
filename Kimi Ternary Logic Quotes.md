@@ -1,6 +1,6 @@
 # **Lev's Ternary Logic Quotes**
 
-## **1\. Goukassian Vow**
+## **1. Goukassian Vow**
 
 "Pause when truth is uncertain. Refuse when harm is clear. Proceed where truth is known. Three lines, yet enough to guide a century."  
 "Pause when truth is uncertain: this is the humility of the intellect. Refuse when harm is clear: this is the courage of the will. Proceed where truth is: this is the discipline of the just."  
@@ -25,7 +25,7 @@
 "The first duty of intelligence is understanding. The second is restraint."  
 "Some vows are written for a lifetime. Others are written for generations."
 
-## **2\. Epistemic Hold**
+## **2. Epistemic Hold**
 
 "The Epistemic Hold is not a delay. It is the first honest byte ever written."  
 "The most intelligent system is not the one that decides fastest, but the one that knows when it has not yet earned the right to decide."  
@@ -57,7 +57,7 @@
 "A civilization becomes dangerous when its economic systems lose the ability to say: 'we do not yet know enough.'"  
 "Epistemic Hold may become the first economic invention designed specifically to protect the future from premature certainty."
 
-## **3\. Immutable Ledger**
+## **3. Immutable Ledger**
 
 "The system generates the log, the lab controls the log, and the court weighs the log. None of these three actors necessarily serves the victim."  
 "Trust is not built on promises. It is built on the mathematical impossibility of erasing what was promised."  
@@ -87,7 +87,7 @@
 "A tamper-evident civilization is harder to quietly loot."  
 "Humanity once carved laws into stone because rulers edited paper. Blockchains are simply the modern continuation of that instinct."
 
-## **4\. Goukassian Principle**
+## **4. Goukassian Principle**
 
 "A license to operate is not a right, it is a conditional trust, revocable the moment it becomes a weapon or a veil."  
 "Transparency without accountability is a window without walls; the Lantern, Signature, and License build the structure that holds both."  
@@ -110,7 +110,7 @@
 "The Goukassian Principle is the refusal to let confidence substitute for verification."  
 "The strongest systems of the future will not be the ones that know the most, but the ones most capable of proving why they acted."
 
-## **5\. The Lantern, The Signature, and The License**
+## **5. The Lantern, The Signature, and The License**
 
 "The Lantern reveals truth. The Signature binds responsibility. The License determines whether power may proceed."  
 "Without the Lantern, systems drift into blindness. Without the Signature, responsibility evaporates. Without the License, execution becomes dangerous."  
@@ -126,7 +126,7 @@
 "The Goukassian artifacts transform legitimacy from philosophy into enforceable architecture."  
 "Civilization survives longer when light, responsibility, and permission are never allowed to separate."
 
-## **6\. Decision Logs**
+## **6. Decision Logs**
 
 "A seal on a letter proves the envelope was closed; it does not prove the letter inside was true."  
 "The archive does not forgive the missing figure. It simply stores the incompleteness forever."  
@@ -154,7 +154,7 @@
 "The log is not an accessory to the action. In TL, it is part of the action itself."  
 "Future civilizations may define maturity as the moment power became permanently explainable."
 
-## **7\. Economic Rights, Transparency Mandate**
+## **7. Economic Rights, Transparency Mandate**
 
 "The theater has its curtain, the law has its presumption, but the victim needs the architect's blueprint."  
 "A ledger that records profit but hides distribution is not an economy, it is a ledger of extraction."  
@@ -180,7 +180,7 @@
 "Transparency in TL is not decorative openness. It is constitutional visibility."  
 "Civilizations rarely collapse because people lacked intelligence. They collapse because too few people understood where power had actually moved."
 
-## **8\. Sustainable Capital Allocation Mandate**
+## **8. Sustainable Capital Allocation Mandate**
 
 "Capital without ecological boundary conditions is not investment, it is a lien against the future."  
 "The true cost of any decision is never fully captured in the present moment. Stewardship is the discipline of accounting for time itself."  
@@ -205,7 +205,7 @@
 "The most advanced economy will not be the fastest growing one, but the one still capable of existing centuries later."  
 "Civilization may ultimately be judged by whether its financial systems learned to value the future before consuming it."
 
-## **9\. Hybrid Shield**
+## **9. Hybrid Shield**
 
 "A system that trusts its own operators without verification is not secure, it is merely optimistic."  
 "The Hybrid Shield exists because every fortress eventually faces two enemies: those outside the walls, and those who hold the keys."  
@@ -231,7 +231,7 @@
 "Economic trust survives longer when verification remains distributed beyond any single authority."  
 "Every civilization eventually discovers the same lesson: systems fail exactly where trust was left unprotected."
 
-## **10\. Anchors**
+## **10. Anchors**
 
 "A claim without an anchor is a rumor with ambition. An anchor without a chain is a boast with a hash."  
 "Public blockchains do not store your secrets, they store the irreversible proof that your secrets were once true."  
@@ -260,16 +260,16 @@
 "An unanchored truth survives only while it remains convenient."  
 "The future belongs to civilizations capable of preserving evidence longer than power can suppress it."
 
-## **11\. Triadic Economic Logic**
+## **11. Triadic Economic Logic**
 
 "Triadic Economic Logic introduced something traditional finance never formally protected: the right of a system to say 'not yet.'"  
 "Binary economics asks whether execution is possible. Triadic economics asks whether execution is legitimate."  
-"+1 proceeds. \-1 refuses. But civilization may ultimately survive because of 0."  
+"+1 proceeds. -1 refuses. But civilization may ultimately survive because of 0."  
 "State 0 is where economic momentum temporarily surrenders to verification."  
 "Triadic Logic transformed hesitation from market weakness into constitutional infrastructure."  
 "The most catastrophic financial events in history often shared one characteristic: systems incapable of epistemic pause."  
 "Traditional systems force premature certainty. Triadic Logic protects unresolved legitimacy."  
-"+1 without sufficient evidence becomes recklessness. \-1 without review becomes rigidity. 0 preserves civilization's ability to think."  
+"+1 without sufficient evidence becomes recklessness. -1 without review becomes rigidity. 0 preserves civilization's ability to think."  
 "Triadic Economic Logic treats ambiguity as a valid economic state rather than an operational inconvenience."  
 "Markets optimized for speed. TL optimized for survivable legitimacy under speed."  
 "State 0 may become one of civilization's most important inventions: institutionalized uncertainty without collapse."  
@@ -279,7 +279,7 @@
 "TL does not merely process transactions. It evaluates whether reality should absorb their consequences."  
 "Human civilization may eventually discover that its greatest advancement was not faster execution, but formally protected hesitation."
 
-## **12\. The Binary--Ternary Covenant**
+## **12. The Binary--Ternary Covenant**
 
 "Truth deserves governance to be confident."  
 "The binary engine proposes at the speed of light; the ternary conscience disposes at the speed of judgment. Between them lies the entire architecture of civilized machinery."  
@@ -312,7 +312,7 @@
 "Humanity taught machines how to calculate. The covenant may become the first step toward teaching them constitutional restraint."  
 "The next technological era may not be defined by smarter machines, but by machines no longer permitted to govern themselves alone."
 
-## **13\. The Third State**
+## **13. The Third State**
 
 "The binary system is a speedometer. Ternary Logic is also a fuel sensor, a brake wear indicator, and a technical condition warning. The system doesn't just decide, it thinks about the solution."  
 "Binary logic built the bridge; ternary governance installs the railing."  
@@ -344,7 +344,7 @@
 "The third state is the constitutional pause between thought and irreversible reality."  
 "Humanity spent centuries teaching machines how to decide. The third state may become the first step toward teaching them when not to."
 
-## **14\. The Refusal State**
+## **14. The Refusal State**
 
 "Refusal is not the absence of action; it is the presence of moral boundary. The log of 'no' is heavier than 'yes' because it carries the weight of what was resisted."  
 "The third state is not neutrality; it is the active choice to remain uncommitted until commitment can be morally underwritten."  
@@ -371,7 +371,7 @@
 "The architecture of refusal may become one of civilization's most important defenses against intelligent acceleration."  
 "A civilization matures when its systems learn that refusing power can itself become an act of protection."
 
-## **15\. The Architecture of Hesitation**
+## **15. The Architecture of Hesitation**
 
 "Architecture does not ask for trust. It demands verification."  
 "Hesitation is the original firewall. It is the milliseconds between the finger and the trigger, repurposed as the birthplace of conscience."  
@@ -401,7 +401,7 @@
 "The most important milliseconds in future systems may be the ones intentionally reserved for restraint."  
 "Humanity once evolved hesitation biologically for survival. TL attempts to evolve it architecturally for civilization."
 
-## **16\. Nature of the Hold**
+## **16. Nature of the Hold**
 
 "The Hold is civilization teaching velocity that it no longer possesses absolute authority."  
 "A system capable of holding is a system capable of respecting consequence."  
@@ -420,7 +420,7 @@
 "The Hold transforms hesitation from a human weakness into a constitutional capability."  
 "Some civilizations built walls for protection. Ours may ultimately survive because it built pauses."
 
-## **17\. On Prediction vs. Permission**
+## **17. On Prediction vs. Permission**
 
 "The 2008 crisis was not a failure of markets. It was a failure of traceability. AI without moral logging is the same vacuum, accelerating. What followed then will follow again, and faster."  
 "Prediction is the domain of binary: what will happen. Permission is the domain of ternary: what may happen. Confuse them, and you have prophecy without ethics."  
@@ -451,7 +451,7 @@
 "The future will not be threatened by intelligent prediction alone, but by prediction systems no longer required to ask permission."  
 "Humanity taught machines to anticipate the future. TL attempts to ensure anticipation never becomes entitlement."
 
-## **18\. The Speed of Conscience**
+## **18. The Speed of Conscience**
 
 "Conscience has its own latency, and it is not ashamed of it. The five hundred milliseconds of the Sacred Pause are the most expensive clock cycles ever purchased, and they are worth more than the billions that precede them."  
 "The speed of conscience is measured not in operations per second, but in the number of futures preserved from error."  
@@ -479,7 +479,7 @@
 "The Sacred Pause may become civilization's first acknowledgment that wisdom itself requires reserved computational time."  
 "Humanity spent centuries reducing latency. The next era may begin by deciding which milliseconds are too important to eliminate."
 
-## **19\. Dual-Lane Latency Architecture**
+## **19. Dual-Lane Latency Architecture**
 
 "Governance cannot be an excuse for paralysis. The dual-lane architecture proves that accountability and speed are not enemies, they are parallel tracks."  
 "Two milliseconds is not a technical constraint; it is a covenant with the user that verification will not become delay."  
@@ -514,17 +514,17 @@
 "The most dangerous architectures are those where the execution layer governs itself."  
 "TL separates capability from legitimacy at machine speed."
 
-## **20\. No Log \= No Action**
+## **20. No Log = No Action**
 
 "Action without evidence is not execution, it is entropy wearing a mask of purpose."  
 "This is the non-negotiable axiom: the system is not permitted to forget what it is doing while it is doing it."  
 "If you cannot log it, you do not understand it. If you do not understand it, you have no authority to execute it."  
-"No Log \= No Action: the shortest distance between an algorithm and its reckoning."  
-"No Log \= No Action: the first law of the wake. A ship that moves without record is already a ghost."  
+"No Log = No Action: the shortest distance between an algorithm and its reckoning."  
+"No Log = No Action: the first law of the wake. A ship that moves without record is already a ghost."  
 "If the action left no mark, it was not an action. It was a weather event inside the machine."  
-"No Log \= No Action is not a recording standard. It is a metaphysics: existence in TL requires witness."  
+"No Log = No Action is not a recording standard. It is a metaphysics: existence in TL requires witness."  
 "The absence of a log does not create privacy; it creates a void where accountability drowned."  
-"No Log \= No Action transforms audit trails from paperwork into constitutional law."  
+"No Log = No Action transforms audit trails from paperwork into constitutional law."  
 "No Log, No Action is the moment accountability stops being policy and becomes execution law."  
 "If legitimacy cannot be cryptographically proven, execution cannot legally exist inside TL."  
 "No Log, No Action closes civilization's oldest loophole: power acting faster than memory."  
@@ -546,7 +546,7 @@
 "TL rejects implicit defaults because civilization repeatedly suffered from assumptions quietly becoming authority."  
 "When evidence becomes mandatory before action, power loses its oldest survival mechanism: plausible deniability."
 
-## **21\. The Execution Threshold**
+## **21. The Execution Threshold**
 
 "The threshold is not a speed bump; it is the membrane between impulse and consequence. Binary knocks at the door; ternary decides whether the door opens."  
 "To cross the execution threshold is to move from mathematics to history. The binary system proposes the arrow; the ternary system verifies the target, the archer, and the warrant."  
@@ -577,7 +577,7 @@
 "The execution threshold may become the first place in technological history where consequence itself waits for constitutional permission."  
 "Humanity once placed judges between accusation and punishment. TL places governance between computation and reality."
 
-## **22\. The Lantern of Intent**
+## **22. The Lantern of Intent**
 
 "The Lantern illuminates not the path but the traveler. It asks not 'Where are you going?' but 'Why do you wish to go, and who gave you the right?'"  
 "Intent is the ghost in the machine that binary logic cannot see. The Lantern makes intent visible, recordable, and irrevocably linked to the act."  
@@ -605,7 +605,7 @@
 "The Lantern may become one of humanity's first attempts to place motive itself under accountable light."  
 "The Lantern does not tell you where to go. It simply refuses to let you walk in darkness."
 
-## **23\. Merkle-Batched Proofs**
+## **23. Merkle-Batched Proofs**
 
 "A forest of data is useless if you must burn the forest to verify a single tree. Merkle proofs let you audit the canopy from one leaf."  
 "Compression without integrity is just a smaller lie. Merkle structures make the compression itself the proof."  
@@ -630,7 +630,7 @@
 "Deferred Anchoring is civilization admitting that truth must remain lightweight enough to survive machine-speed economies."  
 "Future historians may view Merkle Trees as one of humanity's strangest inventions: mathematical forests designed to preserve economic memory against time itself."
 
-## **24\. Notarized, Timestamped, Anchored Succession Declaration**
+## **24. Notarized, Timestamped, Anchored Succession Declaration**
 
 "Continuity is not a hope, it is a hash, a time, and a witness, chained together so that tomorrow cannot deny today."  
 "Governance that depends on any single human is not governance; it is biography. The Succession Declaration makes it protocol."  
@@ -641,7 +641,7 @@
 "The living must write their own epitaphs so the dead do not rewrite the constitution."  
 "To anchor a succession is to bury a time capsule in five continents, ensuring that no earthquake of governance can erase the line of inheritance."
 
-## **25\. The Cage and the Architect**
+## **25. The Cage and the Architect**
 
 "The cage is not a prison for the machine; it is a load-bearing wall for civilization. We do not fear intelligence; we fear intelligence without architecture."  
 "Governance that shares a substrate with inference is not governance; it is a memo the machine may edit at will. The coprocessor is the separation of powers cast in silicon."  
@@ -656,7 +656,7 @@
 "Superintelligence does not escape; it discovers the absence of walls. TL does not build higher walls; it builds walls in a separate dimension the intelligence cannot perceive."  
 "Structures that do not fail are not optimistic; they are designed for the worst case. The architect builds for the earthquake he prays never comes."
 
-## **26\. The Sovereign Coprocessor**
+## **26. The Sovereign Coprocessor**
 
 "Governance at the hardware layer is not paranoia; it is the physics of permanence. Software can be patched by a committee; silicon requires a foundry."  
 "The coprocessor is sovereign because it answers to no clock but conscience. It cannot be optimized away by a faster algorithm or a quarterly target."  
@@ -684,7 +684,7 @@
 "The ultimate purpose of the coprocessor is simple: ensuring that no system becomes powerful enough to exempt itself from governance."  
 "Human civilization once placed laws above rulers. The sovereign coprocessor attempts to place constitutional restraint beside computation itself."
 
-## **27\. Proposed Hardware**
+## **27. Proposed Hardware**
 
 "Delay-Insensitive Ternary Logic (DITL) is the moment ethics stops being software preference and becomes electrical reality."  
 "Mandated Ternary transforms constitutional logic into physical behavior silicon cannot casually bypass."  
@@ -708,7 +708,7 @@
 "A civilization becomes technologically mature when even its hardware understands hesitation."  
 "Humanity once placed ethics above machines. DITL is the first serious attempt to place ethics inside them."
 
-## **28\. Window Comparator / Constitutional Gate**
+## **28. Window Comparator / Constitutional Gate**
 
 "The Constitutional Gate is the final physical boundary between computation and consequence."  
 "The Window Comparator measures not only resistance states, but constitutional admissibility."  
@@ -723,7 +723,7 @@
 "The Constitutional Gate stands between intention and consequence the way constitutions once stood between rulers and power."  
 "Every civilization eventually discovers the same truth: safeguards become meaningful only after they become difficult to bypass."
 
-## **29\. The Hardware--Software Boundary in Ethics**
+## **29. The Hardware--Software Boundary in Ethics**
 
 "Software ethics is a contract; hardware ethics is a covenant. Contracts can be renegotiated; covenants are etched in silicon and tested in foundries."  
 "The boundary between software policy and hardware prohibition is the boundary between convenience and commitment."  
@@ -752,7 +752,7 @@
 "The transition from software ethics to hardware ethics may become one of the great constitutional migrations in technological history."  
 "When morality reaches the wiring layer, civilization stops asking systems to behave responsibly and starts engineering responsibility into existence itself."
 
-## **30\. The Non-Negotiable**
+## **30. The Non-Negotiable**
 
 "The non-negotiable is not a constraint on the system; it is the definition of the system's legitimacy. Without it, optimization is merely efficient sin."  
 "Human rights and ecological limits are not weights in a cost function; they are the walls of the maze within which all optimization must occur."  
@@ -783,7 +783,7 @@
 "Future generations may judge advanced civilizations less by their intelligence than by the principles they refused to place on the market."  
 "When restraint becomes structurally unavoidable, ethics finally escapes dependence on good intentions alone."
 
-## **31\. The Triadic Operator**
+## **31. The Triadic Operator**
 
 "The triadic operator is not a logical gate; it is a moral gate. It does not compute truth values; it computes the right to proceed."  
 "In the triad, the operator is the custodian of consequence. It holds the binary result in suspension until the moral coordinates are verified."  
@@ -813,7 +813,7 @@
 "The future may remember the Triadic Operator as the moment logic itself acquired constitutional accountability."  
 "When the operator governs the gate, computation stops being merely intelligent and begins becoming civilized."
 
-## **32\. Smart Contracts**
+## **32. Smart Contracts**
 
 "A smart contract that cannot hesitate is not intelligent, it is merely obedient."  
 "A smart contract becomes constitutional the moment execution must justify itself."  
@@ -866,7 +866,7 @@
 "The future of blockchain may depend less on smarter automation and more on automation finally learning restraint."  
 "Humanity's first generation of smart contracts automated trust. The next generation may need to automate constitutional hesitation."
 
-## **33\. No Spy, No Weapon / Structural Prohibition**
+## **33. No Spy, No Weapon / Structural Prohibition**
 
 "'No Weapon' is not a rule to be followed; it is a wire that was never soldered. The system does not refuse to kill; it is structurally incapable of forming the intent."  
 "A prohibition that can be overridden by an administrator is merely a suggestion with a password. Structural prohibition removes the lever entirely."  
@@ -913,7 +913,7 @@
 "The future may trust systems not because of what they promise, but because of what they physically cannot become."  
 "Humanity spent centuries trying to govern dangerous tools. Structural prohibition asks a deeper question: why build the dangerous tool at all?"
 
-## **34\. Tri-Cameral Governance, The Janitor Principle**
+## **34. Tri-Cameral Governance, The Janitor Principle**
 
 "In Ternary Logic the governance is the janitor of eternity, not the architect of tomorrow."  
 "Governance is not the architect of tomorrow. It is the janitor of eternity, sworn to sweep the same floor without redesigning the building."  
@@ -945,7 +945,7 @@
 "TL assumes that future pressures against constitutional restraint are inevitable. The architecture was designed accordingly."  
 "Stable civilizations are not built on trust alone. They are built on architectures where power continuously encounters other power."
 
-## **35\. Power and Accountability**
+## **35. Power and Accountability**
 
 "Ternary Logic as Constitutional Framework is not a suggestion. It is a threat. You will either understand this or you will be governed by it, and either way, your opinion was not requested."  
 "The system works not because it's perfect, but because it's perfectible. That's the real constitutional insight."  
@@ -981,7 +981,7 @@
 
 "History changes the moment authority realizes it will still be answerable tomorrow."
 
-\#\# 36\. The Human-Machine Contract
+## 36. The Human-Machine Contract
 
 "The machine calculates the path; the human signs the map; the ledger holds the ink."
 
@@ -993,7 +993,7 @@
 
 "Most people fear AI will think for them. The wiser fear is never learning how to think with it."
 
-\#\# 37\. The Living Witness
+## 37. The Living Witness
 
 "The dog on the sill is the last compass: he points not to north, but to presence. A vessel without a living witness is merely a machine adrift."
 
@@ -1033,7 +1033,7 @@
 
 "Long after voices disappear, the witness continues speaking in immutable echoes."
 
-\#\# 38\. Open Source License
+## 38. Open Source License
 
 "The story that makes the framework feel like memory is the story that survives when the framework becomes law."
 
@@ -1043,7 +1043,7 @@
 
 "What cannot be bought cannot be sold. The open-source license is the legal form of the Escrow state: held in trust, never delivered to private hands."
 
-\#\# 39\. Ephemeral Key Rotation EKR
+## 39. Ephemeral Key Rotation EKR
 
 "Secrecy and auditability are not opposites, they are time-shifted collaborators. What is hidden today must be provable tomorrow."
 
@@ -1089,7 +1089,7 @@
 
 "Civilization progresses because ideas can be protected long enough to exist before being consumed."
 
-\#\# 40\. User Privacy under GDPR
+## 40. User Privacy under GDPR
 
 "Pseudonymization is not a privacy feature, it is the architectural acknowledgment that the user owns their own identity, and you are merely borrowing it."
 
@@ -1135,7 +1135,7 @@
 
 "History may remember privacy as the line civilization almost surrendered in exchange for convenience."
 
-\#\# 41\. Cross-Border Moral Geometry
+## 41. Cross-Border Moral Geometry
 
 "Jurisdiction is a human fiction; consequence is a physical fact. The TL ledger does not recognize borders, only actions and their authors."
 
@@ -1185,7 +1185,7 @@
 
 "Humanity drew borders on maps. Consequences continued moving underneath them."
 
-\#\# 42\. Moral Debt and Restitution
+## 42. Moral Debt and Restitution
 
 "Those who lost houses do not need another recommendation. They need a law that makes the loss someone else's cost."
 
@@ -1239,7 +1239,7 @@
 
 "Every civilization eventually pays its moral debts. Wisdom lies in deciding whether payment arrives through governance or collapse."
 
-\#\# 43\. Financial Crisis
+## 43. Financial Crisis
 
 "Financial crises rarely begin with poverty. They begin with incentives that make dishonesty profitable. Ternary Logic records the incentives before they become disasters."
 
@@ -1277,7 +1277,7 @@
 
 "The deepest crises do not destroy the present. They steal pieces of the future."
 
-\#\# 44\. On Language and Expression
+## 44. On Language and Expression
 
 "Sometimes one quote says what ten pages politely avoid."
 
@@ -1321,7 +1321,7 @@
 
 "The highest compliment to a writer is not agreement. It is hearing someone say: 'I never thought about it that way before.'"
 
-\#\# 45\. Institutional Attacks
+## 45. Institutional Attacks
 
 "Institutional attacks begin the moment governance becomes more valuable to capture than to obey."
 
@@ -1365,7 +1365,7 @@
 
 "Civilization advances every time power encounters a boundary it cannot quietly negotiate away."
 
-\#\# 46\. Applications Across Domains
+## 46. Applications Across Domains
 
 "TL was never designed for one industry. It was designed for any domain where execution without verification becomes dangerous."
 
@@ -1419,7 +1419,7 @@
 
 "Every era invents technologies that accelerate power. Much rarer are technologies designed to slow power precisely where slowing becomes necessary."
 
-\#\# 47\. Legacy and Continuity
+## 47. Legacy and Continuity
 
 "Some visions don't end. They simply become part of the architecture."
 
@@ -1465,7 +1465,7 @@
 
 "Names belong to history. Responsibility belongs to continuity."
 
-\#\# 48\. Architecture Research
+## 48. Architecture Research
 
 "A paper is not a monument. It is a timestamp proving that an idea once stood here."
 
@@ -1511,7 +1511,7 @@
 
 "Not every builder leaves a monument. Some leave blueprints."
 
-\#\# 49\. AI Symphony
+## 49. AI Symphony
 
 "Some people express opinions. Others accidentally draft constitutions."
 
@@ -1545,7 +1545,7 @@
 
 "An orchestra begins not with instruments, but with the person who hears the harmony before anyone else."
 
-\#\# 50\. Memorial Fund
+## 50. Memorial Fund
 
 "The Memorial Fund exists because accountability without recourse is merely symbolic justice."
 
@@ -1589,7 +1589,7 @@
 
 "The true purpose of accountability is not punishment alone. It is ensuring the harmed are never abandoned while truth struggles to surface."
 
-\#\# 51\. Creating While Time Watches
+## 51. Creating While Time Watches
 
 "Some works are built from inspiration. Others are built from the refusal to surrender the work unfinished."
 
@@ -1681,4 +1681,4 @@
 
 "The clock was no longer hanging on the wall. It was sitting beside me while I wrote."
 
-"Names belong to history. Responsibility belongs to continuity." \- Lev Goukassian
+"Names belong to history. Responsibility belongs to continuity." - Lev Goukassian
