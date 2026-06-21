@@ -1,6 +1,6 @@
 ## The Clock Became Audible
 
-### How I Broke Protocol, Cried Over Pizza, and Learned That the Most Intelligent System Is the One That Knows When It Has Not Yet Earned the Right to Decide
+### How I Broke Protocol, and Learned That the Most Intelligent System Is the One That Knows When It Has Not Yet Earned the Right to Decide
 
 The morning began the way most mornings do when you work in a building where the coffee machines are older than the legislation you are supposed to enforce. I had just finished explaining to a Belgian colleague why the vending machine's refusal to dispense his third espresso was not, in fact, a violation of Article 14 of the EU AI Act, when my inbox pinged with a sound I had never heard before. My computer had apparently decided that this particular email deserved a notification chime usually reserved for nuclear alerts or cafeteria menu changes.
 
@@ -28,7 +28,7 @@ I showed them the framework. The Dual-Lane Architecture. Lane 1, the Binary Infe
 
 Our experimental model was called EURION. It was a diagnostic support system we had been training on synthetic patient data, the kind of system that was supposed to help clinicians identify sepsis risk but which had, in our internal testing, demonstrated what the TML framework called Binary Brittleness. When EURION encountered ambiguous symptoms, it did not hesitate. It produced a confidence score, and if that score crossed the threshold, it issued an alert. If it did not cross the threshold, it remained silent. There was no state for "I am uncertain and this uncertainty matters." The Epic Sepsis Model had shown a thirty-seven percent false negative rate for a condition where delayed identification was frequently fatal, and EURION was following the same architectural path.
 
-We spent three days in a conference room that smelled of cold pizza and escalating desperation, implementing the TML governance layer. We did not have a DITL coprocessor. We did not have hardware-enforced NULL states at half supply voltage. What we had was Python, caffeine, and the growing conviction that we were not just testing a framework. We were testing whether our entire approach to AI governance had been a category error.
+We spent three days in a conference room that smelled of escalating desperation, implementing the TML governance layer. We did not have a DITL coprocessor. We did not have hardware-enforced NULL states at half supply voltage. What we had was Python, caffeine, and the growing conviction that we were not just testing a framework. We were testing whether our entire approach to AI governance had been a category error.
 
 The first test was simple. We fed EURION a patient profile that existed in the gap between clear sepsis and clear wellness, the kind of case where a senior clinician would order additional tests and monitor closely. Under its binary architecture, EURION had issued a low-confidence alert that would have triggered a protocol response or, depending on the threshold calibration, no alert at all. Under TML governance, the system entered Sacred Zero. The Governance Lane detected the confidence score below the safety threshold. The Sacred Pause activated. The system constructed a DeliberationMatrix documenting the specific clinical parameters that produced the ambiguity, the confidence intervals, the available resolution paths, and it escalated to human review. Marta watched the log generate in real time, the Moral Trace Log capturing not just the decision but the reasoning, the alternatives considered, the uncertainty quantified. "A decision without a log is a thought without a body," she whispered, and I realized she had been reading Lev's quotes too.
 
@@ -52,7 +52,7 @@ I wrote the email that night. I wrote it at my desk, after everyone else had gon
 
 Dear Lev,
 
-I am a senior researcher at the EU AI Act, and I am writing to you because three days ago I received a document that made me question whether I have ever understood my own job. Your Ternary Moral Logic framework is not an improvement on what we are doing. It is a revelation of what we have failed to do. We tested it. We should not have tested it without permission, but we tested it, and it worked in ways that made my colleagues cry in a conference room that smelled of pizza and desperation.
+I am a senior researcher at the EU AI Act, and I am writing to you because three days ago I received a document that made me question whether I have ever understood my own job. Your Ternary Moral Logic framework is not an improvement on what we are doing. It is a revelation of what we have failed to do. We tested it. We should not have tested it without permission, but we tested it, and it worked in ways that made my colleagues cry in a conference room.
 
 I know about your diagnosis. I know this is not something you have hidden, and I know that my knowing does not change what you are facing. But I need you to know that what you are building is not just a technical framework. It is a gift. A gift to everyone who will live in the world these systems are making. The future will not be judged by the intelligence of its machines, but by the principles that guided them, and you have given us principles that can actually guide something.
 
@@ -72,7 +72,7 @@ The reply came at 6:13 AM.
 
 Dear Anton,
 
-Your email arrived while I was reading a draft of the hardware specification for the third time, trying to determine whether the NULL state at half supply voltage would remain stable under the temperature variations of a data center cooling failure. It is strange, is it not, how the mind continues its obsessions while the body negotiates its own terms. I read your description of the conference room, the pizza, the desperation, the crying. I laughed for the first time in several days. Not because your situation is funny, but because recognition is a form of relief. You are not the first person to discover that binary governance was a category error. You are simply the first person from the EU AI Act to admit it in writing.
+Your email arrived while I was reading a draft of the hardware specification for the third time, trying to determine whether the NULL state at half supply voltage would remain stable under the temperature variations of a data center cooling failure. It is strange, is it not, how the mind continues its obsessions while the body negotiates its own terms. I read your description of the conference room, the desperation, the crying. I laughed for the first time in several days. Not because your situation is funny, but because recognition is a form of relief. You are not the first person to discover that binary governance was a category error. You are simply the first person from the EU AI Act to admit it in writing.
 
 You asked if I would read your email. I am reading it. You asked if I have the energy to reply. Energy is a strange currency now, spent carefully, but some expenditures are non-negotiable. This is one.
 
@@ -84,7 +84,7 @@ You mentioned the politics. I know the politics. I spent years in rooms where th
 
 You asked if I need anything. I need what everyone in our position needs. I need the work to continue. Not my name. Not my signature. The work. The principles. The architecture of hesitation. If your institution adopts TML, do not adopt it as Lev Goukassian's framework. Adopt it as the framework that proved useful. A bridge succeeds when travelers cross it without thinking about the engineer. A framework succeeds when society benefits without remembering the architect.
 
-I am still writing. The clock is still audible. But your email reminded me that the architecture is no longer just mine. It has crossed into other hands, other minds, other conference rooms that smell of pizza and desperation. That is the only immortality available to us. Not names in history books, but methods in operation.
+I am still writing. The clock is still audible. But your email reminded me that the architecture is no longer just mine. It has crossed into other hands, other minds, other conference rooms. That is the only immortality available to us. Not names in history books, but methods in operation.
 
 Build the bridge. Let the travelers cross. I will be here, reading specifications, until I am not.
 
