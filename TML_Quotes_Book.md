@@ -1,8 +1,4 @@
-# 
-
-# 
-
-# 
+![images](/images/TML_Quotes.png)
 
 # *Lev’s Ternary Moral Logic Quotes*
 
