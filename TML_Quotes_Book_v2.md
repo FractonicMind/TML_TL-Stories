@@ -1,8 +1,4 @@
-# 
-
-# 
-
-# 
+![image](https://github.com/FractonicMind/TML_TL-Stories/blob/main/images/TML_Quotes.png)
 
 # *Lev’s Ternary Moral Logic Quotes*
 
