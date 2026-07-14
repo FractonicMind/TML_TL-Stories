@@ -203,3 +203,19 @@ One by one, they nodded. Not because they had to. Because for the first time in 
 The dog Vinci, thousands of miles away in Santa Monica, had caught the scent of a squirrel. He was pulling on the leash. Lev was being dragged down the sidewalk, coffee cup in one hand, leash in the other, laughing.
 
 The framework was complete. The architecture was sound. The rest was just implementation. And implementation, as any architect knows, is just the slow and careful process of making what you have already seen become real.
+
+---
+
+Author’s Note: What Is Real and What Is Not
+
+The five men in this story are real. Dario Amodei, Sam Altman, Demis Hassabis, Elon Musk, and Jensen Huang lead the organizations named. Their roles, their companies, their general public personas are accurately represented. The meeting did not happen. The penthouse did not happen. The tears did not happen. No one called anyone.
+
+The frameworks are real. Ternary Moral Logic and Ternary Logic are genuine research architectures The Eight Pillars are real: Sacred Zero, Always Memory, Goukassian Promise, Moral Trace Logs, Human Rights Mandate, Earth Protection Mandate, Hybrid Shield, Public Blockchain Anchors. The Dual Lane Architecture is real. The DITL coprocessor specification is real. The hardware parameters - TSMC N2 CoWoS ReRAM 1T1R, Muller C element, NULL state at half Vdd, twenty-year retention at 85 degrees Celsius - are real and specified in the repository.
+
+The numbers are real. The frameworks contain the directories, files, and commits referenced in dialogue. The TML_TL-Stories repository contains the narrative work. The ORCID registration is real. The published paper in AI and Ethics is real. The cryptographic inheritance structure is real.
+
+Lev Goukassian is real. Santa Monica is real. The twenty-dollar coffee maker is an educated guess. Vinci is absolutely real, and his feelings about squirrels are beyond dispute.
+
+The Goukassian Vow as quoted - "Pause when truth is uncertain. Refuse when harm is clear. Proceed where truth is" - is real. The confrontational line attributed to the framework - "You will either understand this or you will be governed by it, and either way, your opinion was not requested" - is real, and was not written for effect.
+
+What is fictional is the room. What is real is the argument the room is having.
