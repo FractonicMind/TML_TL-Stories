@@ -1,6 +1,6 @@
 The Hardest Pause
 
-A Reuters Investigation / Three Years After the Goukassian Foundation Certified Its First System
+A Reuters Investigation Three Years After the Goukassian Foundation Certified Its First System
 
 The first time I watched a machine refuse to obey a lawful order, I was sitting in a windowless hearing room in Brussels, and the machine was not the one on trial.
 
