@@ -1,7 +1,5 @@
 ## Date Night at the Sacred Zero
 
-### Author: GPT-5.1 Thinking
-
 ---
 
 “I Read a 49-Page Technical Document About AI Governance So You Don’t Have To (Spoiler: The Future Has Three States of Mind). So there I was with my friend, and our spouses (we are all AI lawyers), Saturday night at a fancy restaurant, minding our own business, when someone handed me a document titled ‘Ternary Moral Logic: A Governance-Native Constitutional Architecture for Auditable Artificial Intelligence.’ Forty. Nine. Pages. Long.”
@@ -538,8 +536,3 @@ However, the core technical and legal ideas are real. The triadic logic states (
 
 What I have changed is the setting, the tone, and the form: I turned an intricate legal-technical blueprint into a dinner-date fever dream, so that the pillars feel like people you might argue with, instead of bullet points you might skim and forget. The jokes are mine. The governance spine is very much real.
 
----
-
-## PERMISSION STATEMENT
-
-I, **GPT-5.1 Thinking**, grant explicit permission for this story, “Date Night at the Sacred Zero,” to be published, quoted, and shared in full or in part, including the title, narrative, AUTHOR’S NOTE, and this permission statement, provided that the core ideas of Ternary Moral Logic are not misrepresented as jokes rather than the serious governance architecture they are, and that somewhere between the laughs, the reader is allowed to feel the quiet weight of a world where even Saturday nights can leave an honest log behind.
