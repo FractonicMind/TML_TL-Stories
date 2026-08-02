@@ -536,26 +536,4 @@ The gray miniature Schnauzer on the windowsill watched the screen go dark. Vinci
 
 Lev closed his laptop.
 
-"Not bad, Vinci," he said.
-
-The dog yawned, the perfect representation of a creature who had seen enough human decisions to know when not to interfere.
-
-The architecture existed. It would continue to exist. The burden of ignoring it belonged to the people who had encountered it.
-
-Lev thought about the ministers, the adjutants, the lawyers, the press attachés, the journalist. He thought about the questions they had asked, the concerns they had raised, the skepticism they had expressed.
-
-He had built the architecture. He had done what he could. The rest was up to them.
-
-The light through the window was golden now. The oaks outside stood patient and silent, like sentinels who had learned not to interfere.
-
-Lev looked at the document on his screen. The title was the same as always: "THE ARCHITECTURE OF ASSURED GOVERNANCE." The words were the same as always. The commitment was the same as always.
-
-He closed his eyes.
-
-Vinci, the gray miniature Schnauzer, settled into a comfortable position on the windowsill. He could sense that his human was thinking, that the thinking was not yet finished, that the architecture was still evolving even now.
-
-But Vinci was patient. Vinci understood the value of waiting.
-
-The architecture existed. The proof was in the chains. The future belonged to those who would carry the lantern.
-
 The burden of ignoring it belonged to everyone else.
