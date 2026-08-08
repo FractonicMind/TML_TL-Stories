@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Visual slide decks on Ternary Moral Logic (TML) and Ternary Logic (TL) by Lev Goukassian. Covers the Sacred Zero, Constitutional Gate, DLLA-TL hardware architecture, Tri-Cameral Governance, Goukassian Principle, Epistemic Hold, and AI governance frameworks published in AI and Ethics (Springer Nature).">
+  <meta name="keywords" content="Ternary Moral Logic slides, Ternary Logic presentation, Sacred Zero, Epistemic Hold, Constitutional Gate, DLLA-TL, Lev Goukassian, AI governance, hardware ethics, Tri-Cameral Governance, Goukassian Principle, AI safety architecture, FractonicMind">
+  <meta name="author" content="Lev Goukassian">
+  <title>Slides | TML & TL Media Library</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Inter:wght@300;400;500&display=swap');
+
+    :root {
+      --navy: #0a0f2c;
+      --navy-mid: #111a3e;
+      --navy-light: #1a2755;
+      --gold: #c9a84c;
+      --gold-light: #e8c97a;
+      --gold-dim: #8a6f2e;
+      --white: #f0eeea;
+      --grey: #8a9bb5;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: var(--navy);
+      color: var(--white);
+      font-family: 'Inter', sans-serif;
+      font-weight: 300;
+      line-height: 1.7;
+    }
+
+    header {
+      background: linear-gradient(180deg, #060b1f 0%, var(--navy) 100%);
+      border-bottom: 1px solid var(--gold-dim);
+      padding: 50px 40px 40px;
+    }
+
+    .breadcrumb {
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--gold-dim);
+      margin-bottom: 20px;
+    }
+
+    .breadcrumb a { color: var(--gold-dim); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--gold); }
+
+    h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(2rem, 4vw, 3.2rem);
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 10px;
+    }
+
+    h1 span { color: var(--gold); }
+
+    .header-desc {
+      font-size: 0.92rem;
+      color: var(--grey);
+      max-width: 680px;
+      margin-top: 10px;
+    }
+
+    main {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 60px 40px;
+    }
+
+    .theme-section {
+      margin-bottom: 60px;
+    }
+
+    .theme-header {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--navy-light);
+    }
+
+    .theme-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: var(--gold-light);
+    }
+
+    .theme-count {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--gold-dim);
+    }
+
+    .theme-desc {
+      font-size: 0.87rem;
+      color: var(--grey);
+      margin-bottom: 20px;
+      max-width: 760px;
+    }
+
+    .deck-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 12px;
+    }
+
+    .deck-link {
+      display: block;
+      background: var(--navy-mid);
+      border: 1px solid var(--navy-light);
+      padding: 14px 18px;
+      text-decoration: none;
+      color: var(--white);
+      font-size: 0.85rem;
+      transition: all 0.2s;
+      border-left: 2px solid transparent;
+    }
+
+    .deck-link:hover {
+      border-left-color: var(--gold);
+      background: var(--navy-light);
+      color: var(--gold-light);
+    }
+
+    .deck-format {
+      font-size: 9px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--gold-dim);
+      margin-bottom: 4px;
+    }
+
+    .back-link {
+      display: inline-block;
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--gold-dim);
+      text-decoration: none;
+      margin-bottom: 50px;
+      transition: color 0.2s;
+    }
+
+    .back-link:hover { color: var(--gold); }
+
+    footer {
+      border-top: 1px solid var(--navy-light);
+      padding: 30px 40px;
+      text-align: center;
+      font-size: 11px;
+      letter-spacing: 1px;
+      color: var(--gold-dim);
+    }
+
+    @media (max-width: 600px) {
+      header { padding: 36px 20px 28px; }
+      main { padding: 36px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <p class="breadcrumb"><a href="../index.html">← Media Library</a> &nbsp;/&nbsp; Slides</p>
+  <h1>Slides &amp; <span>Decks</span></h1>
+  <p class="header-desc">Visual architecture of Ternary Moral Logic (TML) and Ternary Logic (TL) by Lev Goukassian. Each deck visualizes a different dimension of the frameworks, from philosophical foundations to hardware circuit design. PDF files open directly in your browser.</p>
+</header>
+
+<main>
+
+  <a class="back-link" href="../index.html">← Back to Media Library</a>
+
+  <!-- THEME 1: FOUNDATIONS -->
+  <div class="theme-section">
+    <div class="theme-header">
+      <p class="theme-title">Foundations: The Sacred Zero & Core Philosophy</p>
+      <p class="theme-count">Core Decks</p>
+    </div>
+    <p class="theme-desc">The foundational decks introducing TML and TL: the triadic -1/0/+1 decision architecture, the Sacred Zero as the protected right to pause, the Goukassian Vow, and the paradigm shift from binary capability to ternary legitimacy.</p>
+    <div class="deck-grid">
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Ternary_Moral_Logic.pdf" target="_blank"><p class="deck-format">PDF</p>Ternary Moral Logic</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Ternary_Moral_Logic.pptx" target="_blank"><p class="deck-format">PPTX</p>Ternary Moral Logic</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/THE_SACRED_ZERO.pdf" target="_blank"><p class="deck-format">PDF</p>The Sacred Zero</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Sacred_Zero_Framework.pdf" target="_blank"><p class="deck-format">PDF</p>The Sacred Zero Framework</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Drafting_the_Sacred_Zero.pdf" target="_blank"><p class="deck-format">PDF</p>Drafting the Sacred Zero</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Sacred_Pause.pdf" target="_blank"><p class="deck-format">PDF</p>The Sacred Pause</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Ternary_Logic.pptx" target="_blank"><p class="deck-format">PPTX</p>Ternary Logic</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Ternary_Moral_Anatomy.pdf" target="_blank"><p class="deck-format">PDF</p>Ternary Moral Anatomy</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Ternary_Moral_Anatomy.pptx" target="_blank"><p class="deck-format">PPTX</p>Ternary Moral Anatomy</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/From_Binary_Illusion_to_Ternary_Reality.pptx" target="_blank"><p class="deck-format">PPTX</p>From Binary Illusion to Ternary Reality</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Goukassian_Promise.pdf" target="_blank"><p class="deck-format">PDF</p>The Goukassian Promise</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Goukassian_Protocol.pdf" target="_blank"><p class="deck-format">PDF</p>The Goukassian Protocol</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Goukassian_Vow_Audit.pdf" target="_blank"><p class="deck-format">PDF</p>The Goukassian Vow Audit</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/A_Book_of_Living_Ideas.pptx" target="_blank"><p class="deck-format">PPTX</p>A Book of Living Ideas</a>
+    </div>
+  </div>
+
+  <!-- THEME 2: ARCHITECTURE OF HESITATION -->
+  <div class="theme-section">
+    <div class="theme-header">
+      <p class="theme-title">The Architecture of Hesitation</p>
+      <p class="theme-count">Core Series</p>
+    </div>
+    <p class="theme-desc">The flagship series exploring hesitation as a structural, architectural, and constitutional property of intelligent systems. Covers the Epistemic Hold, the Constitutional Gate, and the physics of the Sacred Pause.</p>
+    <div class="deck-grid">
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Hesitation.pdf" target="_blank"><p class="deck-format">PDF</p>The Architecture of Hesitation</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Hesitation.pptx" target="_blank"><p class="deck-format">PPTX</p>The Architecture of Hesitation</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecture_of_Hesitation.pdf" target="_blank"><p class="deck-format">PDF</p>Architecture of Hesitation</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecture_of_Hesitation.pptx" target="_blank"><p class="deck-format">PPTX</p>Architecture of Hesitation</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architect_of_Hesitation.pdf" target="_blank"><p class="deck-format">PDF</p>Architect of Hesitation</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architect_of_Hesitation.pdf" target="_blank"><p class="deck-format">PDF</p>The Architect of Hesitation</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecting_the_Pause.pdf" target="_blank"><p class="deck-format">PDF</p>Architecting the Pause</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Pause_Protocol.pdf" target="_blank"><p class="deck-format">PDF</p>The Pause Protocol</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Doubt.pdf" target="_blank"><p class="deck-format">PDF</p>The Architecture of Doubt</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Hardware_of_Hesitation.pptx" target="_blank"><p class="deck-format">PPTX</p>The Hardware of Hesitation</a>
+    </div>
+  </div>
+
+  <!-- THEME 3: HARDWARE & SILICON -->
+  <div class="theme-section">
+    <div class="theme-header">
+      <p class="theme-title">Constitutional Silicon & Hardware Implementation</p>
+      <p class="theme-count">Technical Series</p>
+    </div>
+    <p class="theme-desc">The technical implementation series: DLLA-TL, the Constitutional Gate as a Muller C-element, TaOx Bilayer Memristive Devices, the Irreversibility Gap, Phase 1.5 deployable on current binary hardware, and the Adversarial Threat Matrix.</p>
+    <div class="deck-grid">
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Constitutional_Silicon.pdf" target="_blank"><p class="deck-format">PDF</p>Constitutional Silicon</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Constitutional_Silicon.pptx" target="_blank"><p class="deck-format">PPTX</p>Constitutional Silicon</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Silicon_Constitutionalism.pdf" target="_blank"><p class="deck-format">PDF</p>Silicon Constitutionalism</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Silicon_Constitutionalism.pptx" target="_blank"><p class="deck-format">PPTX</p>Silicon Constitutionalism</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Silicon_Constitution.pdf" target="_blank"><p class="deck-format">PDF</p>The Silicon Constitution</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_DLLA-TL_Blueprint.pdf" target="_blank"><p class="deck-format">PDF</p>The DLLA-TL Blueprint</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Hardware_Enforced_Ternary_Governance.pptx" target="_blank"><p class="deck-format">PPTX</p>Hardware Enforced Ternary Governance</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Constitutional_AI_Runtime_Enforcement.pptx" target="_blank"><p class="deck-format">PPTX</p>Constitutional AI Runtime Enforcement</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Constitutional_Circuit.pdf" target="_blank"><p class="deck-format">PDF</p>The Constitutional Circuit</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Constitutional_Blueprint.pdf" target="_blank"><p class="deck-format">PDF</p>The Constitutional Blueprint</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Constitutional_Substrate.pdf" target="_blank"><p class="deck-format">PDF</p>The Constitutional Substrate</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Governance_to_Silicon.pptx" target="_blank"><p class="deck-format">PPTX</p>Governance to Silicon</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Hardened_AI_Gateways.pdf" target="_blank"><p class="deck-format">PDF</p>Hardened AI Gateways</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/THE_THIRD_VOLTAGE.pptx" target="_blank"><p class="deck-format">PPTX</p>The Third Voltage</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Silicon_Restraint.pptx" target="_blank"><p class="deck-format">PPTX</p>Silicon Restraint</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Ternary_Logic_Hardware_Governance.pptx" target="_blank"><p class="deck-format">PPTX</p>Ternary Logic Hardware Governance</a>
+    </div>
+  </div>
+
+  <!-- THEME 4: GOVERNANCE ARCHITECTURE -->
+  <div class="theme-section">
+    <div class="theme-header">
+      <p class="theme-title">Governance Architecture & Accountability</p>
+      <p class="theme-count">Governance Series</p>
+    </div>
+    <p class="theme-desc">Tri-Cameral Governance (Technical Council, Stewardship Custodians, Smart Contract Treasury), Merkle-Batched Moral Trace Logs, the Hybrid Shield, the Anchor of Truth on public blockchains, and cross-border moral geometry.</p>
+    <div class="deck-grid">
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Ternary_Governance_Architecture.pdf" target="_blank"><p class="deck-format">PDF</p>Ternary Governance Architecture</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/AI_Governance_Architecture.pptx" target="_blank"><p class="deck-format">PPTX</p>AI Governance Architecture</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Assured_Governance_Architecture.pdf" target="_blank"><p class="deck-format">PDF</p>Assured Governance Architecture</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Assured_Governance_Architecture.pptx" target="_blank"><p class="deck-format">PPTX</p>Assured Governance Architecture</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/TML_Assured_Governance.pdf" target="_blank"><p class="deck-format">PDF</p>TML Assured Governance</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/TML_Constitutional_Architecture.pdf" target="_blank"><p class="deck-format">PDF</p>TML Constitutional Architecture</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Accountability.pdf" target="_blank"><p class="deck-format">PDF</p>The Architecture of Accountability</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Accountability.pptx" target="_blank"><p class="deck-format">PPTX</p>The Architecture of Accountability</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Accountable_Intelligence_Blueprint.pptx" target="_blank"><p class="deck-format">PPTX</p>Accountable Intelligence Blueprint</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Sovereign_Ternary_Governance.pdf" target="_blank"><p class="deck-format">PDF</p>Sovereign Ternary Governance</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Sovereign_Ternary_Logic.pptx" target="_blank"><p class="deck-format">PPTX</p>Sovereign Ternary Logic</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Triadic_Sovereignty.pdf" target="_blank"><p class="deck-format">PDF</p>Triadic Sovereignty</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Glass_Vault.pdf" target="_blank"><p class="deck-format">PDF</p>The Glass Vault</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architectural_Ledger.pptx" target="_blank"><p class="deck-format">PPTX</p>The Architectural Ledger</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_50_Year_AI_Governance_Blueprint.pptx" target="_blank"><p class="deck-format">PPTX</p>The 50-Year AI Governance Blueprint</a>
+    </div>
+  </div>
+
+  <!-- THEME 5: CONSCIENCE & RESTRAINT -->
+  <div class="theme-section">
+    <div class="theme-header">
+      <p class="theme-title">Architecture of Conscience & Restraint</p>
+      <p class="theme-count">Philosophy Series</p>
+    </div>
+    <p class="theme-desc">The philosophical and ethical dimensions: conscience as structural property, restraint as constitutional mandate, legacy and stewardship, the Creator's Responsibility, and the long-term moral architecture of AI civilization.</p>
+    <div class="deck-grid">
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Conscience.pdf" target="_blank"><p class="deck-format">PDF</p>The Architecture of Conscience</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecture_of_Conscience.pdf" target="_blank"><p class="deck-format">PDF</p>Architecture of Conscience</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecting_AI_Conscience.pdf" target="_blank"><p class="deck-format">PDF</p>Architecting AI Conscience</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecting_Machine_Conscience.pdf" target="_blank"><p class="deck-format">PDF</p>Architecting Machine Conscience</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Restraint.pdf" target="_blank"><p class="deck-format">PDF</p>The Architecture of Restraint</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Restraint.pptx" target="_blank"><p class="deck-format">PPTX</p>The Architecture of Restraint</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecture_of_Restraint.pdf" target="_blank"><p class="deck-format">PDF</p>Architecture of Restraint</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Blueprint_of_Conscience.pdf" target="_blank"><p class="deck-format">PDF</p>The Blueprint of Conscience</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Blueprint_of_a_Conscience.pdf" target="_blank"><p class="deck-format">PDF</p>The Blueprint of a Conscience</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Physics_of_Conscience.pptx" target="_blank"><p class="deck-format">PPTX</p>The Physics of Conscience</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Load_Bearing_AI.pdf" target="_blank"><p class="deck-format">PDF</p>Load Bearing AI</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architecture_of_Responsibility.pdf" target="_blank"><p class="deck-format">PDF</p>The Architecture of Responsibility</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecting_Responsibility.pdf" target="_blank"><p class="deck-format">PDF</p>Architecting Responsibility</a>
+    </div>
+  </div>
+
+  <!-- THEME 6: LEGACY & ETERNITY -->
+  <div class="theme-section">
+    <div class="theme-header">
+      <p class="theme-title">Legacy, Eternity & Stewardship</p>
+      <p class="theme-count">Legacy Series</p>
+    </div>
+    <p class="theme-desc">The long arc of TML and TL: building while time is visible, the Janitor of Eternity, architectural legacy, planetary stewardship, and the Earth Protection Mandate giving the biosphere a cryptographic seat at every AI governance table.</p>
+    <div class="deck-grid">
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Building_While_Time_Is_Visible.pdf" target="_blank"><p class="deck-format">PDF</p>Building While Time Is Visible</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/When_Time_Becames_Visible.pdf" target="_blank"><p class="deck-format">PDF</p>When Time Became Visible</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Janitor_of_Eternity.pdf" target="_blank"><p class="deck-format">PDF</p>The Janitor of Eternity</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architect_of_Eternity.pdf" target="_blank"><p class="deck-format">PDF</p>Architect of Eternity</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Architect_of_Eternity.pdf" target="_blank"><p class="deck-format">PDF</p>The Architect of Eternity</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecture_of_Legacy.pdf" target="_blank"><p class="deck-format">PDF</p>Architecture of Legacy</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Ternary_Legacy.pdf" target="_blank"><p class="deck-format">PDF</p>The Ternary Legacy</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecting_Legacy.pdf" target="_blank"><p class="deck-format">PDF</p>Architecting Legacy</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Earth_Mandate.pdf" target="_blank"><p class="deck-format">PDF</p>The Earth Mandate</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Earth_Mandate.pptx" target="_blank"><p class="deck-format">PPTX</p>The Earth Mandate</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Earth_Protection_Mandate.pptx" target="_blank"><p class="deck-format">PPTX</p>The Earth Protection Mandate</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Architecting_Planetary_Stewardship.pptx" target="_blank"><p class="deck-format">PPTX</p>Architecting Planetary Stewardship</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/Hardwiring_Planetary_Defense.pdf" target="_blank"><p class="deck-format">PDF</p>Hardwiring Planetary Defense</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Living_Blueprint.pdf" target="_blank"><p class="deck-format">PDF</p>The Living Blueprint</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Ternary_Horizon.pdf" target="_blank"><p class="deck-format">PDF</p>The Ternary Horizon</a>
+      <a class="deck-link" href="https://fractonicmind.github.io/TML_TL-Stories/NoteBookLM/Slides/The_Ternary_Covenant.pdf" target="_blank"><p class="deck-format">PDF</p>The Ternary Covenant</a>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <a href="../index.html" style="color: var(--gold-dim); text-decoration:none;">← Media Library</a> &nbsp;|&nbsp;
+  Lev Goukassian &nbsp;|&nbsp;
+  <a href="https://github.com/FractonicMind/TML_TL-Stories/tree/main/NoteBookLM/Slides" style="color: var(--gold-dim); text-decoration:none;">GitHub Slides Folder</a>
+</footer>
+
+</body>
+</html>
