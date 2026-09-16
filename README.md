@@ -119,7 +119,7 @@ Read as a collection, the repository is not just fiction. It is the intellectual
 
 | Framework | Core Idea | Publication |
 |---|---|---|
-| [Ternary Moral Logic (TML)](https://github.com/FractonicMind/TernaryMoralLogic) | Sacred Pause · Sacred Zero · Always Memory · Goukassian Promise | [AI and Ethics, Springer Nature (2025)](https://doi.org/10.1007/s43681-025-00910-6) |
+| [Ternary Moral Logic (TML)](https://github.com/FractonicMind/TernaryMoralLogic) | Sacred Pause · Sacred Zero · Always Memory · Goukassian Promise | [AI and Ethics, Springer Nature (Accepted 2025)](https://doi.org/10.1007/s43681-025-00910-6) |
 | [Ternary Logic (TL)](https://github.com/FractonicMind/TernaryLogic) | Epistemic Hold · Immutable Ledger · Goukassian Principle · Decision Logs | [AI and Ethics, Springer Nature (Accepted 2026)](https://doi.org/10.1007/s43681-026-01124-0)
 
 ---
