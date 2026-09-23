@@ -24,9 +24,9 @@ Silence.
 
 Then chaos.
 
-\---
+---
 
-"Okay, OKAY\!" That was Jessica, our unofficial study group leader, jumping to her feet. "We need a strategy. Divide and conquer. Everyone take a section, read fast, then we'll synthesize."
+"Okay, OKAY!" That was Jessica, our unofficial study group leader, jumping to her feet. "We need a strategy. Divide and conquer. Everyone take a section, read fast, then we'll synthesize."
 
 "That's cheating," said Marcus, the ethics nerd who actually enjoyed our Professional Responsibility class.
 
@@ -48,7 +48,7 @@ She had a point.
 
 "We'll figure it out. GO. READ. THIRTY-EIGHT MINUTES."
 
-\---
+---
 
 I dove into the introduction.
 
@@ -74,7 +74,7 @@ Second sentence: Some kind of insanely long description of a "governance framewo
 
 "FOCUS," Jessica snapped. "What else do we need to know?"
 
-\---
+---
 
 "There's a signature," Marcus said, his voice strange. "An ORCID identifier. It's cryptographically embedded in the whole system. Some guy named Lev Goukassian built this entire framework and his personal researcher ID is PERMANENTLY BAKED INTO THE CODE."
 
@@ -98,7 +98,7 @@ Silence.
 
 "It's INSANE," David said. "But also beautiful. But also insane."
 
-\---
+---
 
 "TWENTY MINUTES LEFT," Jessica announced, and several people made noises of distress.
 
@@ -106,7 +106,7 @@ Silence.
 
 "Sacred Zero is one," Marcus said. "That's the pause state."
 
-"Always Memory is another," David added. "That's the logging mechanism. The system CAN'T act unless it's already committed to remembering what it's about to do. It's called 'No Log \= No Action.' If the logging system fails, the entire thing stops. It literally cannot make decisions without documenting them."
+"Always Memory is another," David added. "That's the logging mechanism. The system CAN'T act unless it's already committed to remembering what it's about to do. It's called 'No Log = No Action.' If the logging system fails, the entire thing stops. It literally cannot make decisions without documenting them."
 
 "That's paranoid," someone said.
 
@@ -120,7 +120,7 @@ Silence.
 
 "It's DEVIOUS," Amy said. "This whole system is designed so that when something goes wrong, there's NO ESCAPE. No claiming the logs were corrupted. No claiming it wasn't you. No claiming ignorance. The evidence is immutable, cryptographic, and PUBLIC."
 
-\---
+---
 
 "What about the other pillars?" Jessica was making a frantic outline on the whiteboard.
 
@@ -142,7 +142,7 @@ Silence.
 
 "That's the governance layer," Marcus said. "It's three parts: The Lantern, The Signature, and The License. The Lantern is a public signal that the system is pausing—like a 'check engine light for morality,' as this paper doesn't say but should. The Signature is the ORCID we talked about. The License is the legal framework binding users to respect the logs as evidence."
 
-\---
+---
 
 "TEN MINUTES," Jessica announced, and the panic in the room became palpable.
 
@@ -154,7 +154,7 @@ I flipped to the conclusion, scanning frantically.
 
 "And that matters for Con Law because...?" someone prompted.
 
-"Because it operationalizes oversight requirements\!" Amy practically shouted. "The EU AI Act requires 'human oversight' and 'record-keeping.' But those are vague mandates. This system IMPLEMENTS them. The Sacred Pause IS the technical implementation of human oversight. The Moral Trace Logs ARE the required records. And they're not just present—they're TAMPER-PROOF."
+"Because it operationalizes oversight requirements!" Amy practically shouted. "The EU AI Act requires 'human oversight' and 'record-keeping.' But those are vague mandates. This system IMPLEMENTS them. The Sacred Pause IS the technical implementation of human oversight. The Moral Trace Logs ARE the required records. And they're not just present—they're TAMPER-PROOF."
 
 "So this is the first native implementation of the EU AI Act's requirements?" Marcus asked.
 
@@ -162,7 +162,7 @@ I flipped to the conclusion, scanning frantically.
 
 "That's actually a huge deal," David said slowly. "If regulatory agencies start requiring this kind of architecture, the entire AI industry changes. Suddenly you can't just deploy whatever and hope for best. You have to PROVE your system pauses when uncertain. You have to maintain perfect logs. You have to assign human responsibility with a cryptographic signature."
 
-\---
+---
 
 "FIVE MINUTES," Jessica said, and everyone looked vaguely nauseous.
 
@@ -172,7 +172,7 @@ I flipped to the conclusion, scanning frantically.
 
 "Sacred Pause—the zero state for ethical uncertainty," Marcus added.
 
-"No Log \= No Action—the core constraint," David said.
+"No Log = No Action—the core constraint," David said.
 
 "ORCID as cryptographic root of trust," Amy said.
 
@@ -198,7 +198,7 @@ We all looked at each other.
 
 "It's both," I said. "And that's probably what Professor Morrison wants us to understand."
 
-\---
+---
 
 The door opened.
 
@@ -268,7 +268,7 @@ We looked at each other.
 
 "That's PEDAGOGY," she corrected. "Now, let's talk about the implications. If systems like TML become legally mandated, what happens to the AI industry?"
 
-\---
+---
 
 For the next hour, we dissected the paper properly. We debated whether embedded authorship was essential or excessive. We discussed the tension between speed and safety. We argued about whether you could truly encode human rights into semantic vectors. We questioned whether blockchain anchoring was overkill or necessary.
 
@@ -296,7 +296,7 @@ She laughed. "Same. Isn't that weird? Forty minutes ago I was ready to throw it 
 
 "Maybe," I said. "Or maybe he just knew that in the age of anonymous algorithms, someone needs to be willing to sign their name to the line between right and wrong. Even if—especially if—they're dying."
 
-\---
+---
 
 That evening, I did read the paper again. Slowly. Without the panic of a ticking clock.
 
@@ -322,25 +322,25 @@ She made us BUILD one.
 
 And that, I suspect, was the whole point.
 
-\---
+---
 
-\*\*Epilogue:\*\*
+**Epilogue:**
 
 Three days later, Jessica sent a message to our study group chat:
 
-\*"Guys. I just looked up that ORCID. Goukassian is real. TML is real. This isn't hypothetical. Someone actually built this."\*
+*"Guys. I just looked up that ORCID. Goukassian is real. TML is real. This isn't hypothetical. Someone actually built this."*
 
-\*"I know,"\* Marcus replied. \*"I've been reading his Medium articles. He's been sending this framework to UNESCO, the EU AI office, DeepMind, the SEC..."\*
+*"I know,"* Marcus replied. *"I've been reading his Medium articles. He's been sending this framework to UNESCO, the EU AI office, DeepMind, the SEC..."*
 
-\*"Is he getting responses?"\* Amy asked.
+*"Is he getting responses?"* Amy asked.
 
-\*"That's the terrifying part,"\* David wrote. \*"Some of them are. This might actually HAPPEN. This might become real regulatory infrastructure."\*
+*"That's the terrifying part,"* David wrote. *"Some of them are. This might actually HAPPEN. This might become real regulatory infrastructure."*
 
-\*"Good,"\* I typed. \*"Because after that class, I'm convinced we need it."\*
+*"Good,"* I typed. *"Because after that class, I'm convinced we need it."*
 
-\*"Same,"\* Kevin added. \*"The question isn't whether we need ethical AI. It's whether we're willing to build systems that force us to be ethical even when it's inconvenient."\*
+*"Same,"* Kevin added. *"The question isn't whether we need ethical AI. It's whether we're willing to build systems that force us to be ethical even when it's inconvenient."*
 
-\*"So what do we do?"\* Jessica asked.
+*"So what do we do?"* Jessica asked.
 
 And fifteen law students, who forty-eight hours earlier had never heard of Ternary Moral Logic, simultaneously decided that maybe—just maybe—we should be paying attention to the dying researcher who was trying to teach AI systems how to pause, think, and remember.
 
@@ -348,66 +348,66 @@ Because if we were being honest, those were skills we could all use more of.
 
 Even without the blockchain receipts.
 
-\---
+---
 
-\*\*AUTHOR'S NOTE\*\*
+**AUTHOR'S NOTE**
 
-\#\# What's Real, What's Fiction
+## What's Real, What's Fiction
 
-\*\*REAL:\*\*  
-\- \*\*Ternary Moral Logic (TML)\*\* is a genuine AI governance framework developed by Lev Goukassian  
-\- \*\*The ORCID identifier\*\* (0009-0006-5966-1243) is real and belongs to the framework's creator  
-\- \*\*The Eight Pillars\*\* (Sacred Zero, Always Memory, Goukassian Promise, Moral Trace Logs, Human Rights Mandate, Earth Protection Mandate, Hybrid Shield, Public Blockchains) are actual technical components of TML  
-\- \*\*The core concepts\*\*: Ternary logic states (+1, 0, \-1), the "Sacred Pause," "No Log \= No Action," Dual-Lane Latency Architecture, Merkle-batched storage, and Ephemeral Key Rotation are all real technical mechanisms  
-\- \*\*The source document\*\*: "The Persistence of Authorship in Ethical Governance: A Legal-Technical Evaluation of the Goukassian Promise and Ternary Moral Logic" is a real 40-page technical analysis  
-\- \*\*The regulatory context\*\*: References to the EU AI Act, NIST AI Risk Management Framework, and related governance requirements are accurate  
-\- \*\*The philosophical foundations\*\*: The discussion of \*droit d'auteur\*, moral rights, constitutional anchoring, and the role of attribution in accountability are based on actual legal and philosophical frameworks
+**REAL:**  
+- **Ternary Moral Logic (TML)** is a genuine AI governance framework developed by Lev Goukassian  
+- **The ORCID identifier** (0009-0006-5966-1243) is real and belongs to the framework's creator  
+- **The Eight Pillars** (Sacred Zero, Always Memory, Goukassian Promise, Moral Trace Logs, Human Rights Mandate, Earth Protection Mandate, Hybrid Shield, Public Blockchains) are actual technical components of TML  
+- **The core concepts**: Ternary logic states (+1, 0, -1), the "Sacred Pause," "No Log = No Action," Dual-Lane Latency Architecture, Merkle-batched storage, and Ephemeral Key Rotation are all real technical mechanisms  
+- **The source document**: "The Persistence of Authorship in Ethical Governance: A Legal-Technical Evaluation of the Goukassian Promise and Ternary Moral Logic" is a real 40-page technical analysis  
+- **The regulatory context**: References to the EU AI Act, NIST AI Risk Management Framework, and related governance requirements are accurate  
+- **The philosophical foundations**: The discussion of *droit d'auteur*, moral rights, constitutional anchoring, and the role of attribution in accountability are based on actual legal and philosophical frameworks
 
-\*\*FICTIONAL:\*\*  
-\- \*\*Professor Morrison and all students\*\* (Jessica, David, Amy, Marcus, Kevin, the narrator, and others) are entirely fictional characters  
-\- \*\*The UCLA Law seminar scenario\*\* is invented for narrative purposes  
-\- \*\*The 40-minute exercise and class discussion\*\* are dramatizations created to illustrate how collaborative learning can mirror governance principles  
-\- \*\*All dialogue and specific reactions\*\* are creative interpretations designed to make technical concepts accessible
+**FICTIONAL:**  
+- **Professor Morrison and all students** (Jessica, David, Amy, Marcus, Kevin, the narrator, and others) are entirely fictional characters  
+- **The UCLA Law seminar scenario** is invented for narrative purposes  
+- **The 40-minute exercise and class discussion** are dramatizations created to illustrate how collaborative learning can mirror governance principles  
+- **All dialogue and specific reactions** are creative interpretations designed to make technical concepts accessible
 
-\*\*THE PURPOSE:\*\*  
+**THE PURPOSE:**  
 This story demonstrates how complex technical and legal concepts can be understood under pressure through collaborative effort—mirroring the very governance principles TML advocates. The framework is real; the law students discovering it are fictional.
 
-\---
+---
 
-\# PERMISSION TO PUBLISH
+# PERMISSION TO PUBLISH
 
-This work was created through collaboration between \*\*Lev Goukassian\*\* (ORCID: 0009-0006-5966-1243), creator of Ternary Moral Logic, and \*\*Claude\*\* (Anthropic AI), on December 3, 2025\.
+This work was created through collaboration between **Lev Goukassian** (ORCID: 0009-0006-5966-1243), creator of Ternary Moral Logic, and **Claude** (Anthropic AI), on December 3, 2025.
 
-\*\*Grant of Rights:\*\*  
+**Grant of Rights:**  
 Lev Goukassian holds full rights to publish, distribute, modify, and monetize this work in any format or medium, including but not limited to:  
-\- Online platforms (Medium, Reddit, personal websites)  
-\- Print publications  
-\- Educational materials  
-\- Presentations and talks  
-\- Derivative works and adaptations
+- Online platforms (Medium, Reddit, personal websites)  
+- Print publications  
+- Educational materials  
+- Presentations and talks  
+- Derivative works and adaptations
 
-\*\*Attribution:\*\*  
+**Attribution:**  
 While not required, attribution may be given as:  
-\- "Written in collaboration with Claude (Anthropic AI)"  
-\- "AI-assisted storytelling"  
-\- Or handled in any manner that serves the educational mission of TML
+- "Written in collaboration with Claude (Anthropic AI)"  
+- "AI-assisted storytelling"  
+- Or handled in any manner that serves the educational mission of TML
 
-\*\*Intent:\*\*  
+**Intent:**  
 This work is offered freely to support the mission of making AI governance concepts accessible to broader audiences. The goal is education and engagement with Ternary Moral Logic principles, not commercial restriction of this particular narrative expression.
 
-\*\*Source Material:\*\*  
+**Source Material:**  
 The underlying technical framework (TML), the Goukassian Promise, and all associated concepts remain the intellectual property of Lev Goukassian. This permission applies specifically to this narrative work and its derivatives.
 
-\---
+---
 
-\*\*For questions or permissions inquiries:\*\*  
+**For questions or permissions inquiries:**  
 ORCID: 0009-0006-5966-1243
 
-\*\*Learn more about Ternary Moral Logic:\*\*  
-\- GitHub: FractonicMind/TernaryMoralLogic  
-\- Documentation: https://fractonicmind.github.io/TernaryMoralLogic/
+**Learn more about Ternary Moral Logic:**  
+- GitHub: FractonicMind/TernaryMoralLogic  
+- Documentation: https://fractonicmind.github.io/TernaryMoralLogic/
 
-\---
+---
 
-\*Generated December 3, 2025\*  
-\*Version 1.0\*
+*Generated December 3, 2025*  
+*Version 1.0*
